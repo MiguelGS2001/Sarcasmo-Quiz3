@@ -1,0 +1,672 @@
+,Sarcasmo,corrected,corrections,token_count,unique_token_count,nostop_count,sent_count,ner_count,comma,question,exclamation,quotation,organization,caps,person,location,money,time,date,percent,noun,adj,pron,verb,cconj,adv,det,propn,num,part,intj,exclamation_2,noun_2,sent_count_2,exclamation_x_noun,nostop_count_x_intj,noun_x_cconj,texto
+0,1,"No, era por saber si tenía que llevar un saco con el símbolo del dólar",0,16,16,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,1,2,0,0,0,0,0,9,1,0,0,0,"no, ser por saber si tener que llevar uno saco con el simbolo del dolar"
+1,0,"¿A quién le importa? No, lo pregunto de verdad",1,12,12,7,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,0,0,0,1,4,0,0,0,"¿a quien el importar? no, el preguntar de verdad"
+2,0,Pero voy a dar por hecho que ha pedido refuerzos,0,10,10,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,0,0,0,0,0,0,4,1,0,0,2,pero ir a dar por hecho que haber pedir refuerzo
+3,0,¿Por qué no te callas? Tengo que pensar,0,10,10,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,1,0,0,0,0,0,0,1,1,0,0,0,¿por que no tu calla? tener que pensar
+4,0,"Sí, sospechábamos un poco",0,5,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,1,0,3,0,"si, sospechabar uno poco"
+5,0,Esto es ridículo. ¿En serio saldremos a jugar contra los North así vestidos?,2,16,16,11,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,1,2,0,1,1,1,0,0,0,0,1,4,0,0,0,este ser ridiculo. ¿en serio salir a jugar contra el north asi vestido?
+6,0,Francamente no,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,francamente no
+7,0,"David, Rey, Keita, Benny",3,7,5,7,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,"david, rey, keita, benny"
+8,0,"""Y si lo llevas a uno de esos lugares de empeño. En cada dos cuadras hay un sujeto con un cartel que dice:""""compramos oro"""". Mucha gente lo hace""",1,34,27,18,3,1,0,0,0,6,0,0,0,0,0,0,0,0,7,1,4,2,1,0,5,0,1,0,0,0,49,9,0,0,7,"""y si el llevar a uno de ese lugar de empeño. en cada dos cuadra haber uno sujeto con uno cartel que dice:""""comprar oro"""". mucho gente el hacer"""
+9,0,"No, Lana. ¡Qué va!",1,8,8,7,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,4,0,0,0,"no, lana. ¡que va!"
+10,0,Y como es lógico voy a guardar mi pistola en la caja fuerte hasta que acabe la partida,1,18,17,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,2,1,0,3,0,0,0,0,0,9,1,0,0,3,y como ser logico ir a guardar mi pistola en el caja fuerte hasta que acabar el partida
+11,0,"¿Oh, para mí? Oh, dios mío, allí está, el viejo Parches con su carita de felicidad. Gracias Villi, significa mucho para mí. Villi, esa corbata que usas, no sé de dónde la sacaste pero es superguay",7,47,35,25,4,4,7,1,0,0,0,0,0,0,0,0,0,0,4,1,5,5,1,3,4,3,1,0,2,0,16,16,0,50,4,"¿oh, para yo? oh, dios mio, alli estar, el viejo parches con su carita de felicidad. gracias villi, significar mucho para yo. villi, ese corbata que usa, no saber de donde el sacaste pero ser superguay"
+12,0,"Lo siento, mi papá está tomándose el sarcasmo bol profesional muy en serio",1,14,14,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,1,1,2,0,1,2,0,0,0,0,0,16,1,0,0,0,"el sentir, mi papa estar tomar el el sarcasmo bol profesional mucho en serio"
+13,0,No,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no
+14,0,¿No ves qué este deporte le hizo a su padre? ¿Acaso quieres terminar como él?,0,19,17,11,2,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,3,4,0,2,2,0,0,0,0,0,4,4,0,0,0,¿no ver que este deporte el hacer a su padre? ¿acaso querer terminar como el?
+15,0,"Estaba allí en el cochecito, me puse una copa, llamó mi peletero, por cierto, me roba descaradamente. Llamé a la inmigración para intentar que le deportaran a su padre. Me puse otra copa, pero no quedaba hielo, así que, ¡ah!",2,51,39,30,3,2,7,0,1,0,0,0,0,0,0,0,0,0,7,1,4,9,1,4,6,0,0,0,1,1,49,9,7,30,7,"estar alli en el cochecito, yo pusir uno copa, llamar mi peletero, por cierto, yo robar descaradamente. llamar a el inmigracion para intentar que el deportarar a su padre. yo poner otro copa, pero no quedar hielo, asi que, ¡ah!"
+16,0,Jackson atrapa el balón. Está corriendo por la meta y uh.,1,13,12,9,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,0,2,1,0,0,1,0,4,4,0,9,2,jackson atrapa el balon. estar correr por el meta y uh.
+17,0,"El marcador está cero a cero, mientras los Atines avanzan a los Broncos",1,14,11,8,1,2,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,1,1,0,3,2,0,0,0,0,9,1,0,0,3,"el marcador estar cero a cero, mientras el atines avanzar a el broncos"
+18,0,¿Dónde está qué? ¿Te han tirado la cadena?,0,12,10,8,2,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,0,1,0,0,0,0,0,1,4,0,0,0,¿donde estar que? ¿tu haber tirar el cadena?
+19,0,"Ha, porque necesitas ayuda con la niña y no quieres llamar a Lana y vienes a pedirnos ayuda",1,19,16,11,1,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,5,2,1,1,1,0,0,0,0,9,1,0,0,6,"haber, porque necesita ayuda con el niña y no querer llamar a lana y vien a pedirno ayuda"
+20,0,¿Qué?,1,3,3,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que?
+21,0,¿Eh?,0,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,¿eh?
+22,0,"Lana, tranquila, no beberé en tu ausencia y tomo esto muy en serio",0,15,13,8,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,2,1,1,0,0,0,0,4,1,0,0,2,"lana, tranquila, no bebere en tu ausencia y tomo este mucho en serio"
+23,0,"Y su identificación, por favor",0,6,6,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,0,0,0,0,4,1,0,0,2,"y su identificacion, por favor"
+24,0,"La primera línea cubrirá los huecos. Dile que te gustan sus uniformes. Cuide, Token, abracen a esos jugadores",2,22,20,15,3,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,1,4,0,0,4,2,0,0,0,0,16,9,0,0,0,"el primero linea cubrir el hueco. dile que tu gustar su uniforme. cuide, token, abracen a ese jugador"
+25,0,"Por favor, le han disparado",0,6,6,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,"por favor, el haber disparar"
+26,0,Pásalo bien y ojalá que sufras de violencia homófoba,0,9,9,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,0,0,1,0,1,1,0,5,1,pasalir bien y ojala que sufra de violencia homofobo
+27,0,"Sí llevo pipa, hombre no",0,6,6,5,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,0,0,1,0,4,4,0,5,0,"si llevar pipa, hombre no"
+28,0,"Sí, Lana, en serio. ¿Por qué mi madre no es apta para criar a AJ?",0,20,19,13,2,2,2,1,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,2,0,0,1,0,4,4,0,13,0,"si, lana, en serio. ¿por que mi madre no ser apto para criar a aj?"
+29,0,Llévanos solo él y préstame una camisa,1,7,7,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,1,1,1,0,0,0,0,0,9,1,0,0,3,llevano solo el y prestamar uno camisa
+30,0,"Es la mejor, es muy listo. Se aprovecha de mis precios bajos",0,14,14,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,1,1,0,1,2,0,0,0,0,0,1,4,0,0,0,"ser el mejor, ser mucho listo. el aprovechar de mi precio bajo"
+31,0,¿Es que estás de su lado? Ese cabrón ha amenazado a hacer daño a AJ. Que ahora que lo pienso es la culpable de todo esto...,1,30,27,14,3,3,0,1,0,0,0,0,0,0,0,0,0,0,3,1,2,4,0,1,4,1,0,0,0,0,9,9,0,0,0,¿ser que estar de su lado? ese cabron haber amenazar a hacer daño a aj. que ahora que el pensar ser el culpable de todo este...
+32,1,"Sí, sí, ya nos cansamos de que nuestros niños se golpeen en el campo y se lastimen. Hagamos el sarcasmo bol el deporte oficial en todas las escuelas",2,31,26,15,2,0,2,0,0,0,0,0,0,0,0,0,0,0,6,1,3,4,1,1,6,0,0,0,2,0,36,4,0,30,6,"si, si, ya yo cansir de que nuestro niño el golpeir en el campo y el lastimir. hacer el sarcasmo bol el deporte oficial en todo el escuela"
+33,0,"Eh, ya está bien",0,5,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"eh, ya estar bien"
+34,0,Me ha puñado literalmente por la espalda,0,7,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,1,0,0,0,yo haber puñar literalmente por el espalda
+35,0,"Literalmente, por la espalda, puñalada",0,7,6,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,4,1,0,0,0,"literalmente, por el espalda, puñalado"
+36,0,"Sheili tiene trece? Claro, claro, cielos. Villi, alguna vez te conté que tuve un pastor escocés llamado Patios?",3,24,21,17,3,3,3,2,0,0,0,0,0,0,0,0,0,0,3,2,1,3,0,2,2,3,1,0,0,0,9,9,0,0,0,"sheili tener trece? claro, claro, cie el. villi, alguno vez tu contar que tener uno pastor escoces llamado patios?"
+37,0,¿Para criar a mi hija?,0,7,7,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿para criar a mi hija?
+38,0,Es la misma corbata que tenía el Rey Enrique V,0,10,10,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,3,3,0,0,0,0,1,1,0,0,0,ser el mismo corbata que tener el rey enrique v
+39,1,Se acabó. Debería irme a casa y olvidarme de lo que este deporte me ha hecho. ¡Qué miles de personas jueguen el sarcasmo bol y terminen como yo!,3,32,29,18,3,1,0,0,1,0,0,0,0,0,0,0,0,0,5,0,6,6,2,0,2,0,1,0,0,1,25,9,5,0,10,el acabar. deber ir yo a casa y olvidar yo de el que este deporte yo haber hacer. ¡que mil de persona jugar el sarcasmo bol y terminir como yo!
+40,0,"Vamos gente, veamos a esa regla de las patadas y regresemos al futbol",0,14,14,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,3,1,0,2,0,0,0,0,0,16,1,0,0,4,"ir gente, veamos a ese regla de el patada y regres al futbol"
+41,0,Así es justo cómo murió Brea,1,6,6,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,0,0,0,0,0,1,0,0,0,asi ser justo como morir brea
+42,0,"No, mis compañeros lo inventaron para que Slate me llevara a usted y que usted me trajera aquí",1,19,16,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,5,3,1,2,1,1,0,0,0,0,1,1,0,0,1,"no, mi compañero el inventar para que slate yo llevar a usted y que usted yo traer aqui"
+43,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+44,0,Te lo dije,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,tu el decir
+45,0,Y pierde unos quilicos,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,1,y perder uno quilico
+46,0,"Brandy, primero permíteme agradecerte por tomar un juego que amamos y convertirlo en una pesadilla. ¡Muy bien hecho!",2,22,22,13,2,1,1,0,1,0,0,0,0,0,0,0,0,0,2,1,1,4,1,3,2,2,0,0,0,1,4,4,2,0,2,"brandy, primero permitemir agradecerte por tomar uno juego que amamos y convertir el en uno pesadilla. ¡mucho bien hecho!"
+47,0,"Cielos, mi abuelo pagó seis mil dólares para algo que casi no tiene valor alguno. Cómo, ¿cómo puede ocurrir algo semejante?",2,26,24,14,2,1,2,1,0,0,0,0,0,0,0,0,0,0,3,1,5,3,0,2,2,1,2,0,0,0,9,4,0,0,0,"cielos, mi abuelo pagar seis mil dolares para algo que casi no tener valor alguno. como, ¿como poder ocurrir algo semejante?"
+48,0,Vale,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,vale
+49,0,"Vale, sí, ten cuidado. ",0,7,6,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,1,0,1,1,0,6,0,"vale, si, tir cuidado."
+50,0,Y ha venido un tal señor Ley para verla,0,9,9,5,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,2,1,0,0,0,0,1,1,0,0,1,y haber venir uno tal señor ley para ver el
+51,0,"No te preocupes, tiene que haber otro lugar donde compren oro cerca",0,13,13,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,0,2,1,0,0,0,0,0,4,1,0,0,0,"no tu preocupar, tener que haber otro lugar donde comprir oro cerca"
+52,0,"Al suelo, mire, ¿qué estás? Uy, estaba haciendo un simulacro. Les estaba poniendo en prueba, buen trabajo.",0,25,20,18,3,2,4,1,0,0,0,0,0,0,0,0,0,0,4,1,2,4,0,0,1,1,0,0,0,0,16,9,0,0,0,"al suelo, mire, ¿que estar? uy, estar hacer uno simulacro. el estar poner en prueba, buen trabajo."
+53,0,"Hagámoslo. Stan, abróchame el sostén",1,7,7,6,2,2,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,1,0,4,4,0,6,0,"hagamoslo. stan, abrochame el sosten"
+54,0,Y calla. ¿Y qué operación está llevando a cabo CIA en Argentina?,0,15,14,11,2,2,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,0,1,2,0,0,0,0,4,4,0,0,4,y callar. ¿y que operacion estar llevar a cabo cia en argentina?
+55,0,¿Y por qué nosotros? ¿No es mejor que quede en casa en la CIA?,0,18,15,9,2,2,0,2,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,1,1,1,0,0,0,0,1,4,0,0,1,¿y por que yo? ¿no ser mejor que quedar en casa en el cia?
+56,0,"""¿Por qué no les gritan a los encargados de fundir el oro? El refrán hindú dice:""""quien lo fundió, lo generó""""""",3,27,23,18,2,1,1,1,0,6,0,0,0,0,0,0,0,0,2,2,4,5,0,1,3,0,0,0,0,0,4,4,0,0,0,"""¿por que no el gritar a el encargado de fundir el oro? el refran hindu dice:""""quien el fundir, el generar"""""""
+57,0,"No, les maquillaron los de la CIA que les queda muy realista",0,13,12,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,2,2,1,0,0,0,0,0,1,0,0,0,"no, el maquillar el de el cia que el quedar mucho realista"
+58,0,"Como una mujer despechada, ¿te acuerdas de que te despeché un poco la última vez que nos vimos?",0,21,19,9,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2,4,3,0,1,3,0,0,0,0,0,4,1,0,0,0,"como uno mujer despechado, ¿tu acuerdir de que tu despeche uno poco el ultimo vez que yo ver?"
+59,0,Es cierto,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ser cierto
+60,0,"Caray, conduce de puta pena",0,6,6,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,1,0,0,0,0,4,1,0,0,0,"caray, conducir de puto pena"
+61,0,"Esta Lana, mira que montar esto solo para que le llamara y pidiera ayuda. Y Slate con sangre falsa. Qué pena da el pobre",1,27,25,17,4,3,1,0,0,0,0,0,0,0,0,0,0,0,3,3,2,5,2,0,3,2,0,0,0,0,9,16,0,0,6,"este lana, mirar que montar este solo para que el llamar y pedir ayuda. y ser el tu con sangre falso. que pena dar el pobre"
+62,0,¿Dónde está?,0,4,4,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿donde estar?
+63,0,"Y bien, qué está pasando allí",0,7,7,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,0,0,0,0,0,0,1,0,0,0,"y bien, que estar pasar alli"
+64,0,Claro que sí. ¿Puedo cogerla?,1,8,8,6,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,4,0,0,0,claro que si. ¿poder coger el?
+65,0,"Mmm, pero estás guapa, más rellenito de lo que recuerdo",1,12,11,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,0,1,0,0,0,0,0,1,0,0,0,"mmm, pero estar guapo, mas rellenito de el que recordar"
+66,0,"Cuenta, coge lo que necesites, me figuro que unas pilas nuevas, y vamos a sacarte da aquí.",1,21,18,10,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,3,6,1,1,1,0,0,0,0,0,1,1,0,0,1,"cuenta, coger el que necesit, yo figurar que uno pila nuevo, y ir a sacarte dar aqui."
+67,0,"No, no dispares. Allí está el bebé",0,9,9,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,1,0,0,0,0,0,1,4,0,0,0,"no, no dispar. alli estar el bebe"
+68,1,¿Haber cruzado el río grande?,1,7,7,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿haber cruzar el rio grande?
+69,0,"Sí, aquí hay uno",0,5,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,0,2,0,"si, aqui haber uno"
+70,1,"Vagamente. Pero si lo que quieres es venganza, ¿por qué no me matas?",0,17,17,9,2,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,4,2,1,2,0,0,0,0,0,0,1,4,0,0,1,"vagamente. pero si el que querer ser venganza, ¿por que no yo matar?"
+71,0,Pero hay otras mesas,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,pero haber otro mesa
+72,0,"Oye, oye, tienes que escuchar, no sé qué pasa aquí, pero tienes que darme la niña.",0,21,16,13,1,1,4,0,0,0,0,0,0,0,0,0,0,0,1,0,1,8,1,2,1,0,0,0,0,0,1,1,0,0,1,"oye, oir, tener que escuchar, no saber que pasar aqui, pero tener que dar yo el niña."
+73,1,"Corten, perdón, voy de nuevo. Intento decir que deberíamos tener diez ligas de sarcasmo bol y así todos pueden jugar. ¡Ah, mierda!",1,29,25,17,3,2,3,0,1,0,0,0,0,0,0,0,0,0,4,1,1,6,1,1,0,0,1,0,2,1,16,9,4,34,4,"corten, perdon, ir de nuevo. intentar decir que debeer tener diez liga de sarcasmo bol y asi todo poder jugar. ¡ah, mierda!"
+74,0,Voy a pedir refuerzos,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,ir a pedir refuerzo
+75,0,"¿Podríamos dejarlo ya, por favor?",0,8,8,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,"¿poder dejar el ya, por favor?"
+76,0,"Oh, bien, Cutters. Es la brújula de amistad. Cuando hay amigos tuyos en el área, tu pequeña brújula indica donde están. Apunta hacia arriba, porque Jesús es tu amigo",1,36,29,21,4,3,4,0,0,0,0,0,0,0,0,0,0,0,6,2,1,3,0,2,4,2,0,0,1,0,36,16,0,21,0,"oh, bien, cutters. ser el brujula de amistad. cuando haber amigo tuyo en el area, tu pequeño brujula indicar donde estar. apuntar hacia arriba, porque jesus ser tu amigo"
+77,0,No tengo el urdu tan fresco como pensaba,0,8,8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,2,1,1,0,0,0,0,0,1,0,0,0,no tener el urdu tanto fresco como pensar
+78,0,"Joder, en fin, dudo que el robot tenga Bourbon y no me áptese tres en uno con cola, al menos que no haya, literalmente, nada más que beber",1,33,25,13,1,2,5,0,0,0,0,0,0,0,0,0,0,0,4,0,2,4,1,5,1,2,1,0,0,0,16,1,0,0,4,"joder, en fin, dudo que el robot tener bourbon y no yo aptese tres en uno con cola, al menos que no haber, literalmente, nada mas que beber"
+79,0,Eso dije yo,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,eso decir yo
+80,0,"A caso no ven. Ya que estamos en esto, deberíamos reemplazar el balón por un globo. Y quién atrape el globo correrá mientras el resto de los jugadores se abrazan",0,33,29,18,3,1,1,0,0,0,0,0,0,0,0,0,0,0,6,0,3,6,1,2,5,0,0,0,0,0,36,9,0,0,6,"a caso no ver. ya que estar en este, debeer reemplazar el balon por uno globo. y quien atrape el globo correr mientras el resto de el jugador el abrazar"
+81,0,En tu casa,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,en tu casa
+82,0,Esperé que ya haya pasado. Creía que iban a reformar este sitio,0,13,12,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,1,1,0,0,0,0,0,1,4,0,0,0,espere que ya haber pasar. creer que ir a reformar este sitio
+83,0,"Ha contratado a un canguro, hola soy Maní",0,9,9,6,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,3,0,0,0,0,1,4,0,0,0,"haber contratar a uno canguro, hola soy mani"
+84,0,"Oh, no porque bastante tenías con tirarte a acero, luego a cristal o",0,15,13,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,1,3,0,0,0,0,1,0,4,1,0,7,2,"oh, no porque bastante tenia con tirarte a acero, luego a cristal o"
+85,0,"Mucho, venga, ahora meta la secuencia de datos...",0,11,10,8,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,1,0,0,0,0,0,4,1,0,0,0,"mucho, venir, ahora metar el secuencia de dato..."
+86,0,Me busco a una canguro,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,yo buscar a uno canguro
+87,0,"Chicos, no entiendo el futbol. Por eso, creo que soy mal jugando",0,15,14,8,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,2,1,1,0,0,0,0,1,4,0,0,0,"chicos, no entender el futbol. por ese, creer que ser mal jugar"
+88,0,"Después de apuñalarme, literalmente, por la espalda",1,9,8,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,1,0,0,0,0,0,1,1,0,0,0,"despues de apuñalar yo, literalmente, por el espalda"
+89,0,Quiero decir que esa es la única puerta,0,8,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,0,1,0,0,0,0,0,1,1,0,0,0,querer decir que ese ser el unico puerta
+90,0,"No, en esto no. ¿Qué hay del interior cremoso que nos hablaste? Esa que creemos que llevas dentro y que hace que seamos mejor jugadores del mundo",0,31,26,15,3,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2,7,4,1,3,0,0,0,0,0,0,9,9,0,0,3,"no, en este no. ¿que haber del interior cremoso que yo hablastir? ese que creer que llevar dentro y que hacer que ser mejor jugador del mundo"
+91,0,"Este gran juego no se basa en jugadas. Se basa en camaradería y en la compasión. Y cuando miro en este vestidor, veo algunos de los chicos más amables y compasibles que he conocido. Tú Ken, eres más amable que cualquiera y Cuide, tú, abrazas mejor que cualquiera en este campo de juego",3,60,41,32,4,3,4,0,0,0,0,0,0,0,0,0,0,0,10,4,8,5,4,3,5,2,0,0,0,0,100,16,0,0,40,"este gran juego no el basar en jugada. el basar en camaraderia y en el compasion. y cuando mirar en este vestidor, ver alguno de el chico mas amable y compasibl que haber conocer. tu ken, ser mas amable que cualquiera y cuide, tu, abraza mejor que cualquiera en este campo de juego"
+92,1,"Oh, parece que algunos ex jugadores de NFL están entrando al campo. Está Martín Gregor por seguridad y el defensor Jim Harris. Parece que lleva los pantalones en tobillos. Alguien debería avisárselo. Y el excelente Mike Tetilla que parece estar horneando un pastel imaginario",5,49,42,31,5,6,1,0,0,0,0,0,0,0,0,0,0,0,7,3,3,7,2,0,4,7,0,0,1,0,49,25,0,31,14,"oh, parecer que alguno ex jugador de nfl estar entrar al campo. estar martin gregor por seguridad y el defensor jim harris. parecer que llevar el pantalon en tobillo. alguien deber avisarselo. y el excelente mike tetilla que parecer estar hornear uno pastel imaginario"
+93,0,"No, es quien lo negó, lo proveyó",0,9,7,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,1,0,0,0,"no, ser quien el negar, el proveer"
+94,0,¡Está en la caja fuerte!,1,7,7,5,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,¡estar en el caja fuerte!
+95,0,¿Qué ha dicho?,1,5,5,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que haber decir?
+96,0,"No me jodas, Mani",0,5,5,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,"no yo jodir , mani"
+97,0,Te pido que no sigas,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,1,0,0,0,tu pedir que no sigar
+98,0,"Oh, por Dios bendito",1,5,5,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1,1,0,4,0,"oh, por dios bendito"
+99,0,"Ciérrate la boca, eres un idiota",1,7,7,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,1,0,0,0,0,4,4,0,0,0,"cierrate el boca, ser uno idiota"
+100,0,"Ah, lo siento, da igual",0,7,6,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,0,0,0,1,0,0,1,0,4,0,"ah, el sentir, dar igual"
+101,1,"Gracias, doctor, muchas gracias",0,6,5,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,9,1,0,0,0,"gracias, doctor, mucho gracia"
+102,0,¿Es un actor?,1,5,5,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,¿ser uno actor?
+103,1,¡Duro con ellos! ¡Amor con compasión!,0,10,7,7,1,2,0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,4,1,1,2,0,0,¡duro con el! ¡amor con compasion!
+104,0,"Sé positivo, Stan. Chicos, abrácense, abrácense. ¿Bien, qué está ocurriendo aquí?",2,19,14,16,3,3,4,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,0,2,0,2,0,0,0,0,0,9,0,0,0,"se positivo, stan. chicos, abracense, abracense. ¿bien, que estar ocurrir aqui?"
+105,0,¿De dónde te sacas las veinte copas?,0,9,9,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,1,0,0,0,1,1,0,0,0,¿de donde tu sacar el veinte copa?
+106,0,No,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no
+107,0,¿Por qué iba a traer cerveza?,1,8,8,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,¿por que ir a traer cerveza?
+108,0,Caracterizar este plan,1,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,caracterizar este plan
+109,0,"Así, claro, como él exagera cada enfermedad que tiene",0,11,10,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,2,1,0,0,0,0,0,1,1,0,0,0,"asi, claro, como el exagera cada enfermedad que tener"
+110,0,Lo hablaremos cuando crezcas,1,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,el hablar cuando crezca
+111,0,Deberían a avergonzarse por la gente que explotan en nuestro país. ¿Cómo se atreven a aprovecharse de los menos afortunados?,1,23,22,12,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,3,4,0,1,3,0,0,0,0,0,4,4,0,0,0,deber a avergonzar el por el gente que explotar en nuestro pais. ¿como el atrevir a aprovechar el de el menos afortunado?
+112,0,"Oh, parece que te divertiste mucho",0,7,7,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,0,0,1,0,0,1,0,3,0,"oh, parecer que tu divertistar mucho"
+113,0,¿Eh?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,¿eh?
+114,0,"No, no, no, me jode",0,8,5,5,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"no, no, no, yo jode"
+115,0,Mira,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,mirar
+116,0,"Archero, cierra el pico. Vas a ponerte bien",1,10,10,7,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,1,0,0,0,0,1,4,0,0,0,"archero, cerrar el pico. vas a ponerte bien"
+117,0,Y no le hagas daño,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,0,1,y no el hagar daño
+118,0,"Stan, Stan",0,3,2,3,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"stan, stan"
+119,0,"Oh, ah... Tres dólares",0,6,6,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2,0,1,1,0,12,0,"oh , ah... tres dolares"
+120,0,"Te iba a ofrecer una copa, pero solo tengo tequila y licor de café",0,15,15,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,2,1,1,0,0,0,0,0,16,1,0,0,8,"tu ir a ofrecer uno copa, pero solo tener tequila y licor de cafe"
+121,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+122,0,Este juego es estúpido. No tengo ni idea de cómo salir al campo y ser amable con los del otro equipo,0,22,22,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,1,2,1,2,3,0,0,0,0,0,16,4,0,0,4,este juego ser estupido. no tener ni idea de como salir al campo y ser amable con el del otro equipo
+123,0,"No, a ellos les joden las mujeres asiáticas",0,9,9,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,1,1,0,0,0,"no, a el el jodir el mujer asiatico"
+124,0,No,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no
+125,0,No entiendo cómo alguien puede jugar a esto con sinceridad,0,10,10,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,0,1,0,0,0,0,0,0,1,1,0,0,0,no entender como alguien poder jugar a este con sinceridad
+126,0,Y yo no lo he visto ni hoy,0,8,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,0,0,0,0,0,0,1,0,0,0,y yo no el haber ver ni hoy
+127,0,"Claro que lo vamos a hablar luego, te lo prometo",0,11,10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,2,0,0,0,0,0,0,0,1,0,0,0,"claro que el ir a hablar luego, tu el prometer"
+128,0,"En mi casa no, y por cierto. ¿Qué hacéis en ella? ¿Y quién es este?",2,21,19,11,3,0,1,2,0,0,0,0,0,0,0,0,0,0,1,1,3,1,2,1,1,1,0,0,0,0,1,9,0,0,2,"en mi casa no, y por cierto. ¿que haceis en el? ¿y quien ser este?"
+129,0,"Pues, como la vuelvas a asustar, vas a ver cómo te disparan a ti",0,16,13,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,0,1,0,0,0,0,0,0,1,0,0,0,"pues, como el vuelva a asustar, va a ver como tu disparar a tu"
+130,0,"Sí, pero no puedo ser el capitán. Soy malo en todo",0,13,13,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,2,1,0,0,0,0,0,1,4,0,0,1,"si, pero no poder ser el capitan. ser malo en todo"
+131,0,Iba a decir excesivo,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,ir a decir excesivo
+132,0,"Durante siglos, los alquimistas han intentado crear la fórmula para crear oro. Quien pudiera crearla se volvería rico. Y ahora esta ecuación química está frente a sus ojos",1,31,29,21,3,0,1,0,0,0,0,0,0,0,0,0,0,0,7,2,2,5,1,1,4,0,0,0,0,0,49,9,0,0,7,"durante siglo, el alquimista haber intentar crear el formula para crear oro. quien poder crear el el volver rico. y ahora este ecuacion quimico estar frente a su ojo"
+133,0,¿Tenéis el disco?,0,5,5,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿teneis el disco?
+134,0,"Sí, abuelo",0,3,3,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3,0,"si, abuelo"
+135,0,Qué tontería de conversación,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,que tonteria de conversacion
+136,0,"Se lo diré de todas formas, lo estoy usando para colocar mi programa de espía ultramoderna en la sede de CIA para que la inteligencia paquistaní sepa todo lo que hacen en tiempo real",0,35,27,16,1,1,1,0,0,0,0,0,0,0,0,0,0,0,6,3,5,4,0,0,5,2,0,0,0,0,36,1,0,0,0,"el el decir de todo forma, el estar usar para colocar mi programa de espia ultramoderno en el sede de cia para que el inteligencia paquistani sepa todo el que hacer en tiempo real"
+137,0,¿A mí o a él?,1,7,7,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,0,¿a yo o a el?
+138,0,"Vale, haremos lo siguiente",1,5,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"vale, hacer el siguiente"
+139,0,"Por su puesto, coronel Cal. Espere, Landó Cristiano",3,11,10,10,2,3,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,3,0,0,0,0,4,4,0,0,0,"por su puesto, coronel cal. espere, lando cristiano"
+140,0,"El entrenador Martín se acerca para decírselo, pero parece que Jackson cree que está en su auto regresando a casa. Mientras esperamos nos alegra poder recibir el comisionado de NFL, Roger Cooley. Comisionado, mucho abarató para conmociones este año en la NFL. ¿Cómo maneja la liga todo esto?",4,56,47,34,4,6,3,1,0,0,0,0,0,0,0,0,0,0,7,0,4,11,1,1,7,7,0,0,0,0,49,16,0,0,7,"el entrenador martin el acercar para decirselo, pero parecer que jackson creer que estar en su auto regresar a casa. mientras esperar yo alegrar poder recibir el comisionado de nfl, roger cooley. comisionado, mucho abaratar para conmocion este año en el nfl. ¿como manejar el liga todo este?"
+141,1,"Sí, el otro equipo tenía una delantera tan ofensiva que me asustó mucho",0,14,14,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,2,2,0,3,3,0,0,0,0,0,4,1,0,0,0,"si, el otro equipo tener uno delantera tanto ofensivo que yo asustar mucho"
+142,0,Buena suerte con las cartas sangrientas,0,6,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,buen suerte con el carta sangriento
+143,0,"No, no podemos. Quiero saber por qué deseas que no sea madre",0,14,13,6,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,3,0,3,0,0,0,0,0,0,1,4,0,0,0,"no, no poder. querer saber por que desea que no ser madre"
+144,0,"Claro, Eric",0,3,3,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"claro, eric"
+145,0,"No se compra, hombre, sé",1,7,6,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,0,0,0,0,0,0,1,1,0,0,0,"no el comprar, hombre, saber"
+146,0,Esta vez han podido con el pobre Landó. Estoy acabado,1,11,11,7,2,2,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,0,2,1,0,0,0,0,1,4,0,0,0,este vez haber poder con el pobre lando. estar acabar
+147,0,¿Abuelo?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,¿abuelo?
+148,0,¡Eh! ¿Es mucho pedir durante la maldita jordana laboral dos sesiones de ochenta minutos sin interrupciones para cagar?,1,22,22,15,1,1,0,1,1,0,0,0,0,0,0,0,0,0,3,3,0,2,0,1,1,0,2,0,1,1,9,1,3,15,0,¡eh! ¿ser mucho pedir durante el maldito jordano laboral dos sesion de ochenta minuto sin interrupcion para cagar?
+149,0,"Oye, niño, si tienes un problema con el sistema, estás en un lugar equivocado. Aquí solo fundimos lo que nos envían de los lugares de compra de oro",0,32,27,18,2,1,3,0,0,0,0,0,0,0,0,0,0,0,7,1,3,5,0,2,4,0,0,0,0,0,49,4,0,0,0,"oye, niño, si tener uno problema con el sistema, estar en uno lugar equivocado. aqui solo fundir el que yo envir de el lugar de compra de oro"
+150,0,"No, es. Blindado",2,5,5,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,"no, ser. blindado"
+151,0,Ya si estuviera,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,ya si estar
+152,0,Vale,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,vale
+153,0,Y sigo sin ver por qué tengo yo que cargar del pibe,0,12,12,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,0,0,0,0,0,0,0,1,1,0,0,1,y seguir sin ver por que tener yo que cargar del pibe
+154,0,"Lo sé, habría deseado que me hubiera regalado el dinero en vez de esta corbata",0,16,16,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,2,3,0,0,2,0,0,0,0,0,9,1,0,0,0,"el saber, haber desear que yo haber regalar el dinero en vez de este corbata"
+155,0,"Pues, sácale los ojos, ¿vale?",0,9,8,8,1,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0,0,0,0,0,1,1,0,0,0,"pues, sacalir el ojo, ¿valer?"
+156,0,"Ojalá siguiera entre nosotros. Podría haber parado algunas balas. ¡Por Dios! En fin, van ocho incluidas la que está en mi hombro, así que",2,30,27,16,4,1,2,0,1,0,0,0,0,0,0,0,0,0,3,1,2,4,0,1,3,1,1,0,0,1,9,16,3,0,0,"ojala seguir entre yo. poder haber parar alguno bala. ¡por dios! en fin, ir ocho incluido el que estar en mi hombro, asi que"
+157,0,Eso es porque es muy gruño y negativo para creerlo. Necesita una bebida deportiva que eleve sus niveles de humanidad y bondad,0,23,21,12,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,2,4,2,1,2,0,0,0,0,0,16,4,0,0,8,ese ser porque ser mucho gruño y negativo para creer el. necesitar uno bebida deportivo que elevar su nivel de humanidad y bondad
+158,0,"Cago en la leche. Hay, pistola!",1,9,9,7,3,1,1,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,1,0,0,0,1,4,9,2,0,0,"cago en el leche. haber, pistola!"
+159,0,"Bueno, Cuenta, ganas este salto",1,7,6,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,0,0,0,1,0,4,1,0,6,0,"bueno, cuenta, gana este salto"
+160,0,Yo soy notaria,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,yo ser notaria
+161,0,¿Por qué...? Da igual,1,7,7,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,4,0,0,0,¿por que...? dar igual
+162,1,"Oh, sí soy el que inventó el sarcasmo bol. No hay manera de que sepa cómo entrenarlos",1,19,17,9,2,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,2,3,0,1,2,0,0,0,2,0,9,4,0,18,0,"oh, si ser el que inventar el sarcasmo bol. no haber manera de que sepa como entrenarlo"
+163,0,"¿Ves eso, Villi? Es una esmeralda en oro de catorce quilates. ¿Crees que le gustaría algo así a tu hermanita?",4,26,24,16,3,2,1,2,0,0,0,0,0,0,0,0,0,0,4,0,3,3,0,1,2,1,1,0,0,0,16,9,0,0,0,"¿ves ese, villi? ser uno esmeralda en oro de catorce quilate. ¿crees que el gustar algo asi a tu hermanita?"
+164,0,Sí ya la tengo. ¡Qué bien!,1,9,9,5,2,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,1,0,0,0,1,1,0,4,0,5,0,si ya el tener. ¡que bien!
+165,0,Esos tíos. ¡Qué imbéciles! ¿No?,2,10,10,10,2,0,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,2,0,0,0,0,1,4,4,2,0,0,ese tio. ¡que imbecil! ¿no?
+166,0,Parece que quiere ocultarlo,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,parecer que querer ocultar el
+167,0,¿Es de Pakistán?,2,5,5,4,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,¿ser de pakistan?
+168,0,Lo dije,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,el decir
+169,0,No me jodas,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,no yo jodir
+170,0,"Esta bolsa es de ropa, esa de pañales, en la nevera hay leche materna que excuso de ti",1,20,17,10,1,0,2,0,0,0,0,0,0,0,0,0,0,0,5,1,3,1,0,0,2,0,0,0,0,0,25,1,0,0,0,"este bolsa ser de ropa, ese de pañal, en el nevera haber leche materno que excuso de tu"
+171,0,Mira,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,mirar
+172,0,"Sí, sí, la mamá, no él jodía",0,10,8,6,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,2,0,1,1,0,12,0,"si, si, el mama, no el jodir"
+173,0,"Y luego cuando intenten agradecernos por los clavos, les decoremos que no se agradezca porque hicimos lo correcto, y luego les sonreiremos",2,24,21,11,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,4,6,2,3,1,0,0,0,0,0,1,1,0,0,2,"y luego cuando intentar agradecerno por el clavo, el decoer que no el agradecer porque hacer el correcto, y luego el sonreier"
+174,0,"Así es, quien lo rimó, nos timó",0,9,8,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,1,0,0,0,0,0,1,0,0,0,"asi es, quien el rimar, yo timar"
+175,0,"¿Tiene idea de como se sentiría comenzar a perder sus recuerdos? No, porque ninguno de sus familiares está sufriendo de Alzheimer, pues yo sí",2,28,24,14,2,3,2,1,0,0,0,0,0,0,0,0,0,0,3,0,3,5,0,1,2,1,0,0,1,0,9,4,0,14,0,"¿tener idea de como el sentir comenzar a perder su recuerdo? no, porque ninguno de su familiar estar sufrir de alzheimer, pues yo si"
+176,0,¿Qué? ¿Por qué?,2,7,5,6,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,4,0,0,0,¿que? ¿por que?
+177,0,Desde luego estás conmocionado,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,desde luego estar conmocionado
+178,0,"Oye, oye, venga, seguro que, esperad, que no has secuestrado al bebé. ¿Pero de verdad en la buena?",0,26,21,17,2,1,5,1,0,0,0,0,0,0,0,0,0,0,2,1,0,4,1,2,1,0,0,0,1,0,4,4,0,17,2,"oye, oye, venga, seguro que, esperad, que no haber secuestrar al bebe. ¿pero de verdad en el buen?"
+179,0,"No señor Archero, ni hablar, no hasta que me lleve a la sede de ISIS para que pueda acceder al ordenador central",1,24,22,12,1,2,2,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,1,2,1,2,0,0,0,0,9,1,0,0,3,"no señor archero, ni hablar, no hasta que yo llevar a el sede de isis para que poder acceder al ordenador central"
+180,0,"Para, estate quieto, para",1,6,5,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"para, estate quieto, para"
+181,0,Vamos a hablar de beber tres litros de mexicanos negros antes de conducir con tu hija y un actuante dentro,1,20,18,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,3,1,2,2,0,1,0,0,0,9,1,0,0,3,ir a hablar de beber tres litro de mexicano negro antes de conducir con tu hija y uno actuante dentro
+182,0,"Detrás de la barra, deja de gritar",0,8,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,1,0,0,0,0,0,1,1,0,0,0,"detras de el barra, dejar de gritar"
+183,0,"No, gracias, no debería",0,6,5,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,1,0,5,0,"no, gracias, no deber"
+184,0,¿Y por qué tú y yo no nos liamos la última vez que trabajamos juntos?,1,17,17,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,5,2,2,1,1,0,0,0,0,0,1,1,0,0,2,¿y por que tu y yo no yo liar el ultimo vez que trabajar junto?
+185,0,¡Sterling!,0,3,3,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,¡sterling!
+186,0,Horario Kane,1,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,horario kane
+187,0,"Y yo, pero alguien me traicionó, una aspirante cantante de Country mentirosa",0,14,13,9,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,3,1,2,0,1,1,0,0,0,0,4,1,0,0,4,"y yo, pero alguien yo traicionar, uno aspirante cantante de country mentiros"
+188,0,¿Su hija es tuya?,0,6,6,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,¿su hija ser tuyo?
+189,0,"Es Sterling Archero, este es Barak Ascanio",4,8,8,6,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,0,0,0,0,1,0,0,0,"ser sterling archero, este ser barak ascanio"
+190,0,En Canadá funciona,1,3,3,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,en canada funcionar
+191,0,"En serio Brandy, creo que este deporte le hizo algo de daño a tu cerebro",1,16,16,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,4,0,2,2,0,0,2,1,0,0,0,0,16,1,0,0,0,"en serio brandy, creer que este deporte el hacer algo de daño a tu cerebro"
+192,0,"Muy heroico, lo sé",1,5,5,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,4,0,0,0,"mucho heroico, el saber"
+193,0,"¿Tú sabes cómo eres? Si es alguien de aquí, seré yo",1,14,14,7,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,1,0,0,0,0,0,0,0,4,0,0,0,"¿tu saber como er? si ser alguien de aqui, sere yo"
+194,0,Y quítate ese chisme tan ridículo,0,6,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,0,0,1,1,0,0,1,y quitatar ese chisme tanto ridiculo
+195,0,"En serio, bueno, como decía",0,7,6,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,"en serio, bueno, como decir"
+196,0,"No, esperad, el osito está por aquí, o estaba. Os juro que… ¿Osito?",2,20,18,13,2,1,3,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,1,2,1,0,0,0,2,0,1,4,0,26,1,"no, esperad , el osito estar por aqui, o estar. tu juro que… ¿osito?"
+197,0,Como... No lo recuerdo,1,5,5,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,como... no el recordar
+198,0,"Y cuando el otro equipo intenta acercarse, tendremos que hacer un esfuerzo, llegar a nuestro centro cremoso. Es el lugar que tenemos adentro en que se encuentra todo el amor y felicidad que debemos usar para ser los jugadores más amables y compasivos que el mundo haya visto. Y sabrán que no caemos tan fácilmente",2,59,47,28,3,1,2,0,0,0,0,0,0,0,0,0,0,0,8,3,4,11,4,5,9,0,0,0,0,0,64,9,0,0,32,"y cuando el otro equipo intentar acercar el, tener que hacer uno esfuerzo, llegar a nuestro centro cremoso. ser el lugar que tener adentro en que el encontrar todo el amor y felicidad que deber usar para ser el jugador mas amable y compasivo que el mundo haber ver. y saber que no caer tanto facilmente"
+199,0,"¿Qué, qué? ¿Oh? ¡Oh! ¡Papá! Volvió a ocurrir. Volvió a salirse mi cremosidad",0,23,16,19,2,2,1,2,2,0,0,0,0,0,0,0,0,0,1,0,1,4,0,0,1,0,0,0,4,4,1,4,2,76,0,"¿que, que? ¿oh? ¡oh! ¡papa! volver a ocurrir. volver a salir el mi cremosidad"
+200,0,"Vamos es que no va armado, es lo que quiero decir",0,12,10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,3,0,1,0,0,0,0,0,0,0,1,0,0,0,"vamos ser que no ir armado, ser el que querer decir"
+201,0,"Caballeros, creo que confunden mi hospitalidad con debilidad. El precio es el precio, si quieren negociar, pueden hacerlo con mis socios",0,25,21,14,2,2,3,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,0,0,4,1,0,0,0,0,25,4,0,0,0,"caballeros, creer que confundir mi hospitalidad con debilidad. el precio ser el precio, si querer negociar, poder hacer el con mi socio"
+202,0,"Rieger, andábamos allí cuando fui a buscar hielo. Vamos al laboratorio de ese monstruo",2,16,16,9,4,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,1,1,1,0,0,0,0,9,16,0,0,0,"rieger, andabamos alli cuando ir a buscar hielo. ir al laboratorio de ese monstruo"
+203,0,"¿Cutters, tu cremosidad funcionará en otra persona?",1,10,10,7,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2,1,0,0,0,0,4,1,0,0,0,"¿cutters, tu cremosidad funcionar en otro persona?"
+204,0,"Oro de catorce quilates, o sea catorce dólares al gramo en el mercado, tenemos unos cuatro gramos. Esto es una pérdida de tiempo. Puedo ofrecerte un burrito de seis capas por esto",3,36,31,19,3,1,2,0,0,0,0,0,0,0,0,0,0,0,9,0,2,2,1,0,4,1,4,0,0,0,81,9,0,0,9,"oro de catorce quilate, o ser catorce dolares al gramo en el mercado, tener uno cuatro gramo. este ser uno perdida de tiempo. poder ofrecertar uno burrito de seis capa por este"
+205,1,Lucen bien muchachos. ¡A patear culos!,0,9,9,8,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,2,0,1,0,0,0,0,0,1,4,4,2,0,0,lucir bien muchacho. ¡a patear cu el!
+206,0,"¿Y cuándo? ¿Por qué no quieres hablar de ello, Lana?",0,15,13,10,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,1,0,0,0,0,0,4,0,0,0,"¿y cuando? ¿por que no querer hablar de el, lana?"
+207,0,¿Estáis jugando al Stripe póquer?,3,7,7,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,¿estais jugar al stripe poquer?
+208,0,¡Eh!,0,3,3,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,0,¡eh!
+209,0,Y por lo visto le va muy bien,0,8,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,1,2,0,0,0,0,0,0,0,1,0,0,0,y por el visto el ir mucho bien
+210,0,"Un momento, ¿cuánto pagó por estas joyas?",1,10,10,7,2,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,2,0,0,0,0,0,4,4,0,0,0,"uno momento, ¿cuanto pagar por este joya?"
+211,0,lo haber dicho antes,1,4,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,el haber decir antes
+212,0,"Porque estaré sin móvil, así que si ves que no eres capaz de ",0,14,13,6,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,2,0,0,0,0,0,0,1,4,0,0,0,"porque estar sin movil, asi que si ver que no ser capaz de"
+213,0,"Bien amigos, estamos a la mitad de nuestra transmisión de hoy. ¿Quieren aprovechar las ofertas? ¡Llamen ya!",3,23,22,14,3,0,1,1,1,0,0,0,0,0,0,0,0,0,4,0,0,2,0,3,3,1,0,0,0,1,16,9,4,0,0,"bien amigo, estar a el mitad de nuestro transmision de hoy. ¿querer aprovechar el oferta? ¡llamen ya!"
+214,0,¡Díselo a él!,1,5,5,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,¡diselo a el!
+215,0,¿Qué?,1,3,3,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que?
+216,0,El señor Slate,1,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,el señor slate
+217,0,"¿Un poco? Nos mandaste a un… espera, nos seguiste hasta aquí",0,15,15,9,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,3,3,0,1,2,0,0,0,0,0,1,4,0,0,0,"¿uno poco? yo mandastir a uno… esperar, yo seguistar hasta aqui"
+218,0,"Vaya, igual de ridículo",0,5,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,"vaya, igual de ridiculo"
+219,0,"Ronde, era el que estaba pensando",1,7,7,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,4,0,0,0,"ronde, ser el que estar pensar"
+220,0,Mal y en exceso,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,1,mal y en exceso
+221,0,Y con eso los Brown están listos para batir el balón contra los Broncos,1,14,13,6,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,3,2,0,0,0,0,1,1,0,0,1,y con ese el brown estar listo para batir el balon contra el broncos
+222,0,"Ahora soy un verbo, Lana. Acepta la idea. Y de paso, cúbreme por favor",0,18,16,13,3,2,2,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,1,1,2,1,0,0,0,0,16,9,0,0,4,"ahora ser uno verbo, lana. aceptar el idea. y de paso, cubremir por favor"
+223,1,"Gente, escuchen todos. Hay algo que deben saber acerca del sarcasmo bol, es un juego totalmente seguro, sí superseguro, es tan seguro que cada niño de país debería jugarlo",2,34,28,20,2,0,4,0,0,0,0,0,0,0,0,0,0,0,5,3,3,3,0,3,3,1,0,0,1,0,25,4,0,20,0,"gente, escuchen todo. haber algo que deber saber acerca del sarcasmo bol, ser uno juego totalmente seguro, si superseguro, ser tanto seguro que cada niño de pais deber jugar el"
+224,0,¿Se ha ido?,1,5,5,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿el haber ir?
+225,0,"Pues, venga, subid atrás. Tengo un avión esperando",0,11,10,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,0,1,1,0,0,0,0,0,1,4,0,0,0,"pues, venir, subid atras. tener uno avion esperar"
+226,0,"Pues ahora que lo dices, sí se le veía un poco nervioso",0,13,13,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,2,0,2,1,0,0,0,1,0,0,1,0,5,0,"pues ahora que el decir, si el el ver uno poco nervioso"
+227,0,"Sí, Cuenta Sterne. ¿Preguntas?",2,8,8,8,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,1,0,0,4,0,8,0,"si, cuenta sterne. ¿pregunta?"
+228,0,Pero creía que era algo racista,0,6,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,pero creer que ser algo racista
+229,0,"Fue bueno, Pitón, pero hay que mejorar",1,9,8,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,0,0,0,"ser bueno, piton, pero haber que mejorar"
+230,1,¿De dónde? ¿Del coño de tu madre?,0,11,9,8,2,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,2,0,0,0,0,1,4,0,0,0,¿de donde? ¿del coño de tu madre?
+231,0,¿Cómo los llamas?,0,5,5,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,¿como el llama?
+232,0,Tendríamos que habernos ido antes,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,tendriar que haberno ir antes
+233,0,¿No es el sueño improvisadle?,2,7,7,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,¿no ser el sueño improvisadlir?
+234,0,¡Cuenta Sterne!,2,4,4,4,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,¡cuenta sterne!
+235,0,Que las masticaras primero y se las escupieras en la boca,0,11,10,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,1,1,3,0,0,0,0,0,4,1,0,0,2,que el masticara primero y el el escupiera en el boca
+236,0,Y ya estoy haciendo de canguro de que claramente sí es un bebé,0,13,12,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,1,2,1,0,0,0,1,0,4,1,0,4,2,y ya estar hacer de canguro de que claramente si ser uno bebe
+237,0,Porque es dónde se producen 80 % de los accidentes domésticos,0,11,11,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,1,0,1,0,0,0,1,1,0,0,0,porque ser donde el producir 80 % de el accidente domestico
+238,0,Creía que era la cuija,0,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,creia que ser el cuija
+239,1,Verás Slate. Cuando unos papás se quieren mucho...,1,10,10,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,1,1,0,0,0,0,1,4,0,0,0,veras slate. cuando uno papas el querer mucho...
+240,0,Tecnología falsa que queríamos que China tuviera. Llevan años estudiando el propulsor de antimateria,1,15,14,11,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,4,0,0,1,2,0,0,0,0,9,4,0,0,0,tecnologia falso que querer que china tener. llevar año estudiar el propulsor de antimateria
+241,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+242,0,"Eres un traidor, hijo de puta",0,7,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,4,1,0,5,0,"ser uno traidor, hijo de puta"
+243,0,Pero te lo dije por tu bien,0,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,0,0,0,0,0,1,0,0,0,pero tu el decir por tu bien
+244,0,"A ti, te he quitado un punto porque Paz estaba dando a AJ salchichas para comer",1,17,17,9,1,2,1,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,0,0,1,2,0,0,0,0,4,1,0,0,0,"a tu, tu haber quitar uno punto porque paz estar dar a aj salchicha para comer"
+245,0,Perdón es que he visto cómo dispararon a un tío,0,10,10,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,1,0,0,0,0,0,4,1,0,0,0,perdon ser que haber ver como disparar a uno tio
+246,0,"No sé qué le ocurrió, en fin, venimos a buscar unas cosas de la niña. Así que vamos a cogerlas. ¿Maní?",2,27,24,15,3,1,2,1,0,0,0,0,0,0,0,0,0,0,4,0,2,5,0,2,2,0,0,0,0,0,16,9,0,0,0,"no saber que el ocurrir, en fin, venir a buscar uno cosa de el niña. asi que ir a coger el. ¿mani?"
+247,0,En los cojines de sofá no he estado,1,8,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,1,0,0,0,0,0,4,1,0,0,0,en el cojin de sofa no haber estar
+248,0,Y aquí están las malditas animadoras de Denver,1,8,8,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,1,y aqui estar el maldita animadora de denver
+249,0,¿De quién es esa pistola?,1,7,7,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,¿de quien ser ese pistola?
+250,0,No esta mal te voy a poner un siete,1,9,9,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,2,0,1,0,0,0,0,1,0,0,0,no este mal tu ir a poner uno siete
+251,0,Yo creo que lo he bordado,0,6,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,yo creer que el haber bordar
+252,0,"Recordadme que si ese desgraciado no os mata a todos, lo haga yo",0,14,14,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,0,1,1,1,0,0,0,0,1,4,0,0,0,"recordadme que si ese desgraciado no tu matar a todo, el hacer yo"
+253,0,Pero,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,pero
+254,0,Mi salchicha está dura como una flecha,0,7,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,0,0,0,0,0,4,1,0,0,0,mi salchicha estar duro como uno flecha
+255,0,"Además, dudo que hable mucho cuando le haya pegado un tiro en la cara",1,15,15,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,0,2,2,0,0,0,0,0,4,1,0,0,0,"ademas, dudo que hablar mucho cuando el haber pegar uno tiro en el cara"
+256,0,"Rayos, esto es genial, mi semana acaba de mejora mucho",0,12,11,7,2,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,1,1,1,0,0,0,0,4,4,0,0,0,"rayos, este ser genial, mi semana acabar de mejora mucho"
+257,0,"Oh, les encantará. Un deporte en donde solo importa la seguridad. ¿Por qué no le llamamos sarcasmo bol?",1,23,22,15,3,1,1,1,0,0,0,0,0,0,0,0,0,0,4,0,4,3,0,2,2,0,0,0,1,0,16,9,0,15,0,"oh, el encantar. uno deporte en donde solo importar el seguridad. ¿por que no el llamar sarcasmo bol?"
+258,0,¿Y Woodhouse?,2,4,4,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,¿y woodhouse?
+259,0,¿Cómo es que sigues teniendo dos manos? ¡Hijo de puta!,0,14,14,10,2,1,0,1,1,0,0,0,0,0,0,0,0,0,3,0,1,2,0,0,0,0,1,0,0,1,9,4,3,0,0,¿como ser que sigues  tener dos mano? ¡hijo de puta!
+260,0,¿Pero el gran juego contra? este sábado,2,9,9,5,2,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,2,0,0,0,0,0,4,4,0,0,2,¿pero el gran juego contra? este sabado
+261,0,"Con usted, cuesta distinguir",0,5,5,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"con usted, costar distinguir"
+262,0,"Espera, ¿Argentina no es un aliado nuestro?",0,10,10,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,1,0,0,0,0,1,1,0,0,0,"espera, ¿argentina no ser uno aliado nuestro?"
+263,0,"Vale, os voy a explicar todo eso",0,8,8,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,0,0,0,0,1,0,0,0,"vale, tu ir a explicar todo ese"
+264,0,"Por favor, es un esqueleto de bebé",0,8,8,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,0,0,9,1,0,0,0,"por favor, ser uno esqueleto de bebe"
+265,0,"Idiotas, hijos de puta, conmigo está el presidente de Brasil y su esposa. Y mirad, aquí, sucia, sucia. Toda, todas las armas al suelo",0,32,24,21,3,4,6,0,0,0,0,0,0,0,0,0,0,0,6,2,1,2,2,1,5,2,0,0,0,0,36,9,0,0,12,"idiotas, hijo de puta, conmigo estar el presidente de brasil y su esposa. y mirad, aqui, sucio, sucio. todo, todo el arma al suelo"
+266,1,"Hay que ver, qué generoso",0,6,6,3,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,4,0,0,0,"haber que ver, que generoso"
+267,0,"No estamos siendo sarcástico papá. ¿Es tan difícil creer que realmente disfrutamos de un juego sin violencia? ¿Te cuesta tanto creer que cuando Cutters dice que la competitividad no puede estar compasiva, está siendo sincero?",2,41,35,23,3,1,1,2,0,0,0,0,0,0,0,0,0,0,4,4,1,5,0,5,2,1,0,0,0,0,16,9,0,0,0,"no estar ser sarcastico papa. ¿ser tanto dificil creer que realmente disfrutar de uno juego sin violencia? ¿tu costar tanto creer que cuando cutters decir que el competitividad no poder estar compasivo, estar ser sincero?"
+268,1,"Perdón, perdón, momento, no debo ser sarcástico. Volveré a intentar. Escuchen todos, si permiten que sus hijos jueguen a sarcasmo bol, son unos genios.",1,32,25,22,3,2,5,0,0,0,0,0,0,0,0,0,0,0,7,1,1,5,0,1,2,0,0,0,0,0,49,9,0,0,0,"perdon, perdon, momento, no deber ser sarcastico. volver a intentar. escuchen todo, si permitir que su hijo jugar a sarcasmo bol, ser uno genio."
+269,0,¿Practicar un lunes? ¡Justo lo que yo quería hacer!,0,13,13,8,2,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,3,3,0,1,1,0,0,0,0,1,1,4,1,0,0,¿practicar uno lunes? ¡justo el que yo querer hacer!
+270,0,"Lana, supongo que era una analogía deportiva para hacernos de menos, pero aceptamos la misión. ¿Verdad Sterling?",0,22,21,14,2,2,2,1,0,0,0,0,0,0,0,0,0,0,2,1,0,3,1,1,2,3,0,0,0,0,4,4,0,0,2,"lana, suponer que ser uno analogia deportivo para hacer yo de menos, pero aceptar el mision. ¿verdad sterling?"
+271,0,Y por qué tienes el botiquín en la barra,0,9,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,1,0,2,0,0,0,0,0,4,1,0,0,2,y por que tener el botiquin en el barra
+272,0,Romperé el cristal,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,romper el cristal
+273,0,"Amigo, es superguay",1,4,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"amigo, ser superguay"
+274,0,"Es cierto, Eric me dice que debería ser una mujer por lo malo que soy",0,16,15,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,2,3,1,0,0,1,1,0,0,0,0,1,1,0,0,0,"ser cierto, eric yo decir que deber ser uno mujer por el malo que ser"
+275,0,Alguien está en la cabeza de todo esto y alguien tiene que pagar. Solo estoy pidiendo una maldita retribución para mi maldito abuelo,0,24,24,11,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,2,3,4,1,0,4,1,0,0,0,0,9,4,0,0,3,alguien estar en el cabeza de todo este y alguien tener que pagar. solo estar pedir uno maldito retribucion para mi maldito abuelo
+276,0,Literalmente,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,literalmente
+277,0,"Me figuro que mientras te mato a golpes literalmente, espera, sí literalmente, la mano gigante cambiará mi selector de medio cañero a mega cañero",1,27,22,17,1,1,3,0,0,0,0,0,0,0,0,0,0,0,4,3,2,4,0,2,2,0,1,0,1,0,16,1,0,17,0,"yo figurar que mientras tu mato a golpe literalmente, esperar, si literalmente, el mano gigante cambiar mi selector de medio cañero a mega cañero"
+278,0,"Pues claro, es un cíborg, seguro que la clave era...",0,13,12,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,2,0,0,0,0,0,4,1,0,0,0,"pues claro, ser uno ciborg, seguro que el clave ser..."
+279,0,¿Hablando de qué?,0,5,5,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿hablar de que?
+280,0,"Joder, Archero",1,3,3,3,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"joder, archero"
+281,0,De verdad en la buena,0,5,5,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,4,0,0,0,de verdad en el buen
+282,0,¿Y no crees que parecemos recién salidos de un culebrón brasileño?,1,13,13,9,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,0,2,1,2,1,0,0,0,0,0,1,1,0,0,1,¿y no crees que parezar recien salido de uno culebron brasileño?
+283,0,Mejor me voy,0,3,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,mejor yo ir
+284,0,¿Cómo se pierde un bebé?,0,7,7,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿como el perder uno bebe?
+285,0,"Por Dios, pibe, ya te oigo",0,8,7,6,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,1,0,0,0,0,1,1,0,0,0,"por dios, pibe, ya tu oir"
+286,0,"Cartean, eres idiota",1,4,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"cartean, ser idiota"
+287,0,Qué esmeralda le gusta,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,que esmeralda el gustar
+288,0,"Vivian, acabas de conseguir un regalo. ¿Cómo es tu apellido, corazón?",1,16,15,11,2,1,2,1,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,2,1,0,0,0,0,9,4,0,0,0,"vivian, acaba de conseguir uno regalo. ¿como ser tu apellido, corazon?"
+289,0,"De acuerdo, de siete capas, pero esto es mi mejor oferta",0,13,12,5,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,1,0,1,0,1,0,1,0,0,0,9,4,0,0,3,"de acuerdo, de siete capa, pero este ser mi mejor oferta"
+290,0,Eso no es excusa... ¿Espera esa es tu excusa?,1,12,10,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,1,1,0,0,0,0,0,4,1,0,0,0,ese no ser excusa... ¿esperar ese ser tu excusa?
+291,0,¿Más joven?,1,4,4,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,¿mas joven?
+292,0,Busca ya una botella de la cremosidad de Cutters,1,9,8,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,1,0,0,0,0,4,1,0,0,0,busca ya uno botella de el cremosidad de cutters
+293,0,¿Por qué no te callas?,0,7,7,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,1,1,0,0,0,¿por que no tu calla?
+294,0,¿Dónde se comprará la leche materna?,1,8,8,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿donde el comprar el leche materno?
+295,0,Y no es lo que quiero decir yo,0,8,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,1,1,0,0,0,0,0,0,0,1,0,0,0,y no ser el que querer decir yo
+296,0,Eres él que está desangrando,0,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,eres el que estar desangrar
+297,0,Es viernes por la noche. ¿Por qué coño hay gente aquí todavía?,2,15,15,9,2,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,2,1,0,0,0,1,0,9,4,0,9,0,ser viernes por el noche. ¿por que coño haber gente aqui todavia?
+298,0,"Civil, ponle a cría salvo",1,6,6,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,0,4,4,0,0,0,"civil, ponle a cria salvo"
+299,0,"Bueno, yo lo llamaría un éxito relativo",0,8,8,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,0,1,0,0,0,1,0,1,1,0,5,0,"bueno, yo el llamar uno exito relativo"
+300,0,"¿Entonces, llamemos a ? Para decirles que nos retiramos",2,11,11,8,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,1,0,0,0,"¿entonces, llamemos a ? para decir el que yo retirir"
+301,0,"¡Idiota, todavía no come sólidos!",1,8,8,6,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,0,1,1,0,1,0,6,0,"¡idiota, todavia no comar solido!"
+302,0,No Kane con K sino,0,5,5,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,0,no kane con k sino
+303,0,¿Cómo dices?,1,4,4,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿como decir?
+304,0,"De la pequeña J, ha desaparecido",0,7,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,"de el pequeño j, haber desaparecer"
+305,0,¿Mm? ¡Oh!,1,6,6,6,2,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,4,0,12,0,¿mm? ¡oh!
+306,0,"Sí, es muchísimo pedir",0,5,5,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,4,0,"si, ser muchisimo pedir"
+307,1,"Ah, bien hecho, árbitros del juego",0,8,7,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,1,0,4,1,0,5,0,"ah, bien hecho, arbitro del juego"
+308,0,"Porque resulta que conocéis a la gente en cuestión. ¿Eh, le importa?",0,16,16,11,2,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,1,3,0,0,1,0,0,0,1,0,4,4,0,11,0,"porque resultar que conoceis a el gente en cuestion. ¿eh, el importar?"
+309,0,Y qué significa,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,y que significar
+310,1,¿Qué misión? ¿Vender tecnología militar confidencial a los chinos?,0,13,11,11,2,1,0,2,0,0,0,0,0,0,0,0,0,0,3,2,0,1,0,0,2,0,0,0,0,0,9,4,0,0,0,¿que mision? ¿vender tecnologia militar confidencial a el chino?
+311,0,"Sí, Lana, ahora si tú me disculpas necesito atención médica con bastante urgencia, por tu culpa",0,19,17,11,2,1,3,0,0,0,0,0,0,0,0,0,0,0,4,1,2,1,0,1,2,1,0,0,1,0,16,4,0,11,0,"si, lana, ahora si tu yo disculpa necesitar atencion medico con bastante urgencia, por tu culpa"
+312,0,Estaba teniendo un sueño feliz con una chica y…,0,10,10,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,0,2,0,0,0,0,0,4,1,0,0,2,estar tener uno sueño feliz con uno chica y…
+313,0,"Cuarenta y dos, rojo trece, pensamientos felices, felices para todos",0,13,10,9,1,0,3,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,1,0,0,0,3,0,0,0,4,1,0,0,2,"cuarenta y dos, rojo trece, pensamiento feliz, feliz para todo"
+314,0,"Como comisionado de NFL, me entusiasma ver que la juventud de nuestro país acepta el sarcasmo bol sobre el futbol tradicional. ¿Pero, por qué detenernos allí? Como futbol es de bárbaros, nosotros deberíamos cambiar también. Le demos la bienvenida al nuevo entrenador de Broncos de Denver, Brandy Marso. Felicitaciones Marso, buen trabajo",5,62,47,39,5,5,5,1,0,0,0,0,0,0,0,0,0,0,11,3,4,6,1,2,5,7,0,0,0,0,121,25,0,0,11,"como comisionado de nfl, yo entusiasmir ver que el juventud de nuestro pais aceptar el sarcasmo bol sobre el futbol tradicional. ¿pero, por que detener yo alli? como futbol ser de barbaro, yo debeer cambiar tambien. el demos el bienvenida al nuevo entrenador de broncos de denver, brandy marso. felicitaciones marso, buen trabajo"
+315,0,"¿Bien, qué haces aquí para empezar?",0,9,9,5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,1,0,0,0,"¿bien, que hacer aqui para empezar?"
+316,0,"Eh, oigan. No puedo creer lo que oigo. Practicamos y preparamos para este juego y quieren rendirse.",0,21,18,14,3,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,7,2,1,1,1,0,0,0,0,1,9,0,0,2,"eh, oigan. no poder creer el que oir. practicamo y preparamo para este juego y querer rendir el."
+317,0,"Porque sí, imbécil, resumiendo nos has cerrado en la limusina de las narices",0,15,14,9,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0,0,2,0,0,0,1,0,4,1,0,9,0,"porque si, imbecil, resumir yo haber cerrar en el limusina de el nariz"
+318,0,"Por lo menos Woodhouse, sí",1,6,6,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,0,1,0,3,0,"por el menos woodhouse, si"
+319,0,¿Por qué me pegas?,1,6,6,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿por que yo pegar?
+320,0,Muy buen negocio. Es muy listo,0,7,7,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,2,0,0,0,0,0,0,1,4,0,0,0,mucho buen negocio. ser mucho listo
+321,0,"Oye, lo de la mamada",0,6,6,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,"oye, el de el mamada"
+322,0,"Sea cual sea la misión, ISIS está a la altura. Somos profesionales y",1,15,14,8,3,1,1,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,1,0,2,1,0,0,0,0,9,9,0,0,3,"ser cual ser el mision, isis estar a el altura. ser profesional y"
+323,0,"Cállate, vosotros sacad a AJ y dejadme a mí el resto",0,12,11,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,3,1,0,1,1,0,0,0,0,1,1,0,0,1,"callate, vosotro sacad a aj y dejadme a yo el resto"
+324,0,¿Qué tenéis el disco?,1,6,6,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿que teneis el disco?
+325,0,Vale,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,vale
+326,0,¿Ah?,0,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,¿ah?
+327,0,¿Quién?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿quien?
+328,0,"Bien, Eric. Ya te dije que todos tenemos un interior cremoso de donde provienen todos los sentimientos de compasión y felicidad. ¿Tu papá nunca te lo dijo?",0,32,28,17,3,3,1,1,0,0,0,0,0,0,0,0,0,0,5,1,5,4,1,3,4,1,0,0,0,0,25,9,0,0,5,"bien, eric. ya tu decir que todo tener uno interior cremoso de donde provenir todo el sentimiento de compasion y felicidad. ¿tu papa nunca tu el decir?"
+329,0,Porque no quieres que beba licores,0,6,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,0,0,0,0,0,1,1,0,0,0,porque no querer que bebar licor
+330,0,"No le gustan las joyas, abuelo",0,7,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,1,1,0,0,0,0,0,4,1,0,0,0,"no el gustar el joya, abuelo"
+331,0,¿Y no es porque te gusta llevar ese bi gotón cutre?,1,13,13,7,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,1,1,2,0,0,0,0,0,1,0,0,0,¿y no ser porque tu gustar llevar ese bi goton cutre?
+332,0,"A ver, es que se lo voy a explicar",0,10,10,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"a ver, ser que el el ir a explicar"
+333,0,"Sube al auto, Stan. Nos vamos a la casa",0,11,11,7,2,3,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,0,1,1,0,0,0,0,4,4,0,0,0,"subir al auto, stan. yo ir a el casa"
+334,0,A mí no me grite que no la he perdido. Intente volver sobre sus patos,1,16,15,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,3,3,0,2,1,0,0,0,0,0,1,4,0,0,0,a yo no yo gritar que no el haber perder. intente volver sobre su pato
+335,0,"Seguro que no cuentan que también cambio pañales, así que...",0,12,10,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,3,0,0,0,0,0,0,1,1,0,0,0,"seguro que no contar que tambien cambio pañal, asi que..."
+336,0,"De acuerdo, pero porque yo quiero. Uno de nuestros, pues supongo que podemos llamarlos freelance.",0,19,17,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,3,1,0,1,0,0,0,0,0,4,4,0,0,2,"de acuerdo, pero porque yo querer. uno de nuestro, pues suponer que poder llamar el freelance."
+337,0,¡Por Dios!,0,4,4,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,¡por dios!
+338,0,Cago en la leche que no te voy a hacer una mamada,0,12,12,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,1,0,1,2,1,0,0,0,0,4,4,0,0,0,cago en el leche que no tu ir a hacer uno mamada
+339,0,"Tengo tres en la saca, necesito cuatro para el finde, me voy a Tailandia",2,16,15,7,1,2,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,0,0,2,1,2,0,0,0,4,1,0,0,0,"tener tres en el saca, necesitar cuatro para el finde, yo ir a tailandia"
+340,0,Archero,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,archero
+341,1,"¿Cómo va todo? ¡Increíble! Nadie sale lastimado, los niños están aprendiendo lecciones valiosas sobre abrazos y seguridad, porque de eso se trata el mundo",0,30,29,18,3,1,2,1,1,0,0,0,0,0,0,0,0,0,5,3,5,4,1,0,2,0,0,0,0,1,25,9,5,0,5,"¿como ir todo? ¡increible! nadie salir lastimado, el niño estar aprender leccion valioso sobre abrazo y seguridad, porque de ese el tratar el mundo"
+342,0,Sucios hijos de puta traicioneros. ¿Quieren dejarme fuera? Me robaron la fórmula y luego intentaron joderme. Cutters!,3,22,21,17,4,3,0,1,1,0,0,0,0,0,0,0,0,0,4,0,1,5,1,2,1,2,0,0,0,1,16,16,4,0,4,sucios hijo de puta traicionero. ¿querer dejar yo fuera? yo robar el formula y luego intentar joder yo. cutters!
+343,0,¿Por qué has hecho esto?,1,7,7,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿por que haber hacer este?
+344,0,El mexicano negro,0,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,el mexicano negro
+345,0,No tengo papá,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,no tener papa
+346,0,"Sí, es increíble estar en tu programa",0,8,8,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,1,0,1,1,0,4,0,"si, ser increible estar en tu programa"
+347,0,Así que haces improvisaciones,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,asi que hacer improvisacion
+348,0,"Y si les pasa algo a ellos, viviría con mi hermana",0,12,12,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,2,1,0,1,0,0,0,0,0,1,1,0,0,1,"y si el pasar algo a el, vivir con mi hermana"
+349,0,"¿Pero cómo sabían dónde? ¿Por Dios, habrá un topo en la CIA?",2,17,15,11,2,3,1,2,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,2,2,0,0,0,0,1,4,0,0,1,"¿pero como saber donde? ¿por dios, haber uno topo en el cia?"
+350,0,"A él, Slate dice que has estado genial",1,9,9,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"a el, slate decir que haber estar genial"
+351,0,"Porque así lo siguiente será mucho más fácil, bueno para mí",0,12,12,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"porque asi el siguiente ser mucho mas facil, bueno para yo"
+352,0,Me voy,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,yo ir
+353,0,"Lo siento chicos, mi papá dice que está muy ocupado con los Broncos, no tiene tiempo",0,18,17,9,1,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,0,2,2,1,0,0,0,0,9,1,0,0,0,"el sentir chico, mi papa decir que estar mucho ocupado con el broncos, no tener tiempo"
+354,0,Uno de los dos debería,0,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,uno de el dos deber
+355,0,Coño,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,coño
+356,0,"Lo han entendido mal. Las joyas que venden en esos canales ni siquiera son las nuestras. Son de la India, del mismo lugar de qué proviene sus refranes",1,31,29,15,3,2,1,0,0,0,0,0,0,0,0,0,0,0,5,0,3,3,1,1,7,1,0,0,0,0,25,9,0,0,5,"el haber entender mal. el joya que vender en ese canal ni siquiera ser el nuestro. ser de el india, del mismo lugar de que provenir su refran"
+357,0,"Hola, ¿cuánto me ofrecerías por esto?",1,9,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"hola, ¿cuanto yo ofreceriar por este?"
+358,0,Pero cuando veas que no. ¡Cállate! Esto es el número de centros de CIA de un empleado que vendrá a avisarme,2,24,21,13,2,1,0,0,1,0,0,0,0,0,0,0,0,0,3,0,2,4,1,1,2,1,0,0,0,1,9,4,3,0,3,pero cuando ver que no. ¡callate! este ser el numero de centro de cia de uno empleado que venir a avisar yo
+359,0,Aunque disfrutar no sea literalmente,0,5,5,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,4,0,0,0,aunque disfrutar no ser literalmente
+360,0,¿Qué?,0,3,3,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que?
+361,0,"¿Sí, Saben qué? ¡Al carajo!",0,10,10,9,2,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,1,0,4,0,27,0,"¿si, saber que? ¡al carajo!"
+362,0,Tienes razón. A lo mejor así te liberas de tu energía negativa,1,13,13,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,1,1,0,0,0,0,0,4,4,0,0,0,tener razon. a el mejor asi tu libera de tu energia negativo
+363,1,"Ya gracias, señor craqueos",1,5,5,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,5,0,"ya gracias, señor craqueo"
+364,0,"¿Y por qué, por qué la tienes tú?",0,11,9,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,0,0,0,0,0,0,0,0,1,0,0,0,"¿y por que, por que el tien tu?"
+365,0,"Archero, eso es ",1,4,4,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"archero, ese ser"
+366,1,¿Qué? Creía que significaba lo siento. Se ve que por eso aquella noche en el burdel de carraca pasó de repente de malísima a mucho peor,2,29,26,14,3,0,0,1,0,0,0,0,0,0,0,0,0,0,5,1,4,5,0,1,2,0,0,0,0,0,25,9,0,0,0,¿que? creer que significar el sentir. el ver que por ese aquel noche en el burdel de carraca pasar de repente de malisima a mucho peor
+367,0,Solo Slate,1,2,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,solo slate
+368,0,"No, es que aquí hace un calor de cojones",0,10,10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,1,0,0,0,0,0,4,1,0,0,0,"no, ser que aqui hacer uno calor de cojon"
+369,0,De acuerdo,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,de acuerdo
+370,0,"Por favor, no se les pueda contar nada",0,9,9,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,0,1,0,0,0,0,0,0,1,1,0,0,0,"por favor, no el el poder contar nada"
+371,0,¿No?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,¿no?
+372,0,Eso es,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,ese ser
+373,0,"A sí, eso tiene más sentido",0,7,7,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,1,0,0,0,0,0,0,1,1,0,0,0,"a el, ese tener mas sentido"
+374,0,¿El qué da igual?,0,6,6,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1,0,0,0,¿el que dar igual?
+375,0,Y cien grandes,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,y cien grande
+376,0,"¿Cómo que no? Y se ve que es una bromista, pero le aseguro señor Archero, que todo esto es muy real",2,25,21,12,2,2,2,1,0,0,0,0,0,0,0,0,0,0,2,1,5,2,2,2,2,1,0,0,0,0,4,4,0,0,4,"¿como que no? y el ver que ser uno bromista, pero el asegurar señor archero, que todo este ser mucho real"
+377,0,"Bueno, conmigo está el presidente de Brasil y su esposa grande",0,12,12,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,0,2,1,0,0,1,0,4,1,0,5,2,"bueno, conmigo estar el presidente de brasil y su esposa grande"
+378,0,Ahora se lo voy a decir a CIA y encontrarán el programa espía,0,13,12,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,1,1,1,1,0,0,0,0,4,4,0,0,2,ahora el el ir a decir a cia y encontrar el programa espia
+379,0,No,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no
+380,0,Creía que era en tono irónico,0,6,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,creia que ser en tono ironico
+381,0,No,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no
+382,0,Bien dicho,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,bien dicho
+383,0,"No, no, no puedes hacerte verbo, no te lo consiento",0,13,9,8,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,2,2,0,4,0,0,0,0,0,0,1,1,0,0,0,"no, no, no poder hacer tu verbo, no tu el consentir"
+384,1,"Claro, le hizo algo a mi cerebro y ahora no puedo parar de ser sarcástico",0,16,16,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,3,1,0,0,0,0,0,1,1,0,0,1,"claro, el hacer algo a mi cerebro y ahora no poder parar de ser sarcastico"
+385,0,"¿Y de dónde viene lo de piso franco, verdad? Tendrían que llamarlos pisos sin nombre. Pero aquí estoy a salvo, ¿no?",2,28,24,16,3,0,2,2,0,0,0,0,0,0,0,0,0,0,5,0,2,3,2,2,0,1,0,0,0,0,25,9,0,0,10,"¿y de donde venir el de piso franco, verdad? tener que llamarlo piso sin nombre. pero aqui estar a salvo, ¿no?"
+386,0,"Mm… vale, pero luego seguimos mi plan",1,9,9,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,1,1,1,0,0,1,0,1,1,0,6,1,"mm… valer, pero luego seguir mi plan"
+387,0,"Y como le hayas tocado un solo pelo en su cabecita castaña, te voy a",1,16,16,7,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,2,1,1,0,2,0,0,0,0,0,4,4,0,0,2,"y como el hayas tocado uno solo pelo en su cabecito castaña, tu ir a"
+388,0,"Sí, esa Ley te da secas, una sola palabra y…",1,13,12,7,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,1,1,2,1,0,0,0,0,4,1,0,0,2,"si, ese ley tu dar secas, uno solo palabra y…"
+389,0,¿Cómo?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿como?
+390,0,"Es Slate a secas y esperé. ¿Perdona, vamos a tener un problema tú y yo?",1,19,17,10,2,2,1,1,0,0,0,0,0,0,0,0,0,0,2,0,2,2,2,0,1,2,0,0,0,0,4,4,0,0,4,"ser slate a secas y espere. ¿perdona, ir a tener uno problema tu y yo?"
+391,0,Cago en la leche,0,4,4,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,4,0,0,0,cago en el leche
+392,0,¿Y eso?,0,4,4,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,¿y ese?
+393,0,Fue a apuntado con la pistola,0,6,6,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,ser a apuntado con el pistola
+394,0,¿Tienes una hermana?,0,5,5,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,¿tener uno hermana?
+395,0,La madre que te parió,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,1,0,0,0,0,0,1,1,0,0,0,el madre que tu parir
+396,0,¿A dónde creía que va? ,1,7,7,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,¿a donde creer que ir?
+397,0,"Espera, sí, literalmente",0,5,4,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,4,0,"esperar, si, literalmente"
+398,0,"No te preocupes, abuelo, yo me encargare de esto",1,11,10,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,4,2,0,1,0,0,0,0,0,0,1,1,0,0,0,"no tu preocupar, abuelo, yo yo encargarar de este"
+399,0,¿Qué?,1,3,3,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que?
+400,0,"¿Cómo va todo, entrenador?",0,7,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,1,1,0,0,0,"¿como ir todo, entrenador?"
+401,0,Para mí que fue Rieger,1,5,5,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,para yo que ser rieger
+402,1,"Sí, sí, hagamos esto, la economía está en excusado, se acerca una elección importante, pero la prioridad de este país debe ser que el futbol sea más seguro",1,33,28,16,1,0,5,0,0,0,0,0,0,0,0,0,0,0,5,3,2,2,1,1,5,0,0,0,2,0,25,1,0,32,5,"si, si, hacer este, el economia estar en excusado, el acercar uno eleccion importante, pero el prioridad de este pais deber ser que el futbol ser mas seguro"
+403,0,"Mis bolas, mis bolas, chúpalas",0,7,5,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,9,1,0,0,0,"mi bola, mi bola, chupala"
+404,0,"Bien, papá. Lo guardaré para después.",0,9,8,7,2,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,2,0,0,0,0,0,0,1,4,0,0,0,"bien, papa. el guardar para despues."
+405,0,Ya pero,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,ya pero
+406,0,"Su identificación, coronel",0,4,4,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,"su identificacion, coronel"
+407,0,"Espere, espere",0,3,3,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"espere, esperar"
+408,0,"Oh, por un momento creía que erráis Lana",1,9,9,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,1,1,0,0,1,0,1,1,0,6,0,"oh, por uno momento creer que errais lana"
+409,0,"No se puede, lo siento, no hay investigaciones que determinen los efectos del sarcasmo al cerebro",0,18,17,9,1,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,3,3,0,2,1,0,0,0,0,0,16,1,0,0,0,"no el poder, el sentir, no haber investigacion que determinir el efecto del sarcasmo al cerebro"
+410,1,¿Sabe qué? Tengo un paciente de cincuenta años con Alzheimer esperándome que no recuerda ni a su familia. Olvidémonos de él y concentrémonos en los supuestos efectos del sarcasmo bol en el cerebro,2,36,34,19,3,2,0,1,0,0,0,0,0,0,0,0,0,0,7,1,2,5,2,1,4,2,1,0,0,0,49,9,0,0,14,¿saber que? tener uno paciente de cincuenta año con alzheimer esperandome que no recordar ni a su familia. olvidemonos de el y concentremono en el supuesto efecto del sarcasmo bol en el cerebro
+411,0,"Venga, Archero, 24 horas",1,6,5,6,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,1,0,0,0,4,1,0,0,0,"venga, archero, 24 hora"
+412,0,Y ese brazalete de tanzanita nueve noventa y cinco,1,9,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,1,0,3,0,0,0,4,1,0,0,4,y ese brazalete de tanzanitar nueve noventa y cinco
+413,1,¡Ustedes son la escoria del mundo! ¡Los ancianos son víctimas de canales de venta y ustedes descansan en sus mansiones y ganan billones!,2,27,22,16,1,1,0,0,2,0,0,0,0,0,0,0,0,0,8,0,2,2,2,0,3,0,0,0,0,4,64,1,16,0,16,¡tu ser el escoria del mundo! ¡el anciano ser victima de canal de venta y tu descansar en su mansion y ganar billon!
+414,0,¿Nos vamos ya?,1,5,5,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,¿yo ir ya?
+415,0,Ni que te llamen a jugar en primera división jugando en la tercera,0,13,12,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,3,1,0,1,0,0,0,0,0,1,1,0,0,1,ni que tu llamar a jugar en primero division jugar en el tercero
+416,0,¿Y el pago será?,1,6,6,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,¿y el pago ser?
+417,0,"Y Rieger, te juro por tu madre, como vuelva a pillarte cerca de la niña",1,17,16,10,3,1,2,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,1,1,1,2,0,0,0,0,4,9,0,0,2,"y rieger, tu juro por tu madre, como volver a pillarte cerca de el niña"
+418,0,"Lo siento, no quiero confundirme",0,6,6,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,1,0,0,0,"el sentir, no querer confundir yo"
+419,1,¿Esa es la ecuación para crear el oro?,2,10,10,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,2,0,0,0,0,0,4,1,0,0,0,¿ese ser el ecuacion para crear el oro?
+420,0,"Puede ser. Necesitaré collares de oro, brazaletes de diamantes, y de esmeraldas",0,15,12,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,1,1,0,0,0,0,0,0,0,25,4,0,0,5,"poder ser. necesitare collar de oro, brazalete de diamante, y de esmeralda"
+421,0,Sabías que mentía,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,sabias que mentir
+422,0,"Pues, tú sabrás",0,4,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"pues, tu sabras"
+423,0,"¿Son diamantes genuinos, verdad?",1,7,7,6,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,"¿ser diamant genuino, verdad?"
+424,0,"¿Eh, cómo es que no tenemos un entrenador?",0,11,11,5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,1,1,0,5,0,"¿eh, como ser que no tener uno entrenador?"
+425,0,"¡Muy bien! Disculpe, perdón. Ustedes lucen geniales. ¡Sow, este juego es genial!",1,20,16,17,3,2,2,0,2,0,0,0,0,0,0,0,0,0,2,2,1,1,0,2,1,1,0,0,1,4,4,9,4,17,0,"¡mucho bien! disculpe, perdon. tu lucir genial. ¡sow, este juego ser genial!"
+426,0,"No, Lana. Mirad, como tenga que parar, nos van a matar a todos, así que",0,20,15,10,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,2,0,1,0,0,1,0,0,4,0,10,0,"no, lana. mirad, como tener que parar, yo ir a matar a todo, asi que"
+427,0,Ya tenemos joyas de porquería. Ahora nos queda buscar ancianos,0,11,11,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,3,0,3,0,0,0,0,0,0,4,4,0,0,0,ya tener joya de porqueria. ahora yo quedar buscar anciano
+428,0,"Abuelo, ¿cuánto gastaste en eso?",2,8,8,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"abuelo, ¿cuanto gastastar en ese?"
+429,0,Sobre todo hago improvisaciones,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,sobre todo hacer improvisacion
+430,0,Muy buenas,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,mucho buena
+431,0,"Muy buena elección. Es muy hermosa, miren es muy hermosa",0,12,10,8,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,3,0,0,0,0,0,0,1,4,0,0,0,"mucho buen eleccion. ser mucho hermoso, miren ser mucho hermoso"
+432,0,"Sí amigo, es una réplica de la corbata del Rey Enrique V",0,13,13,8,1,2,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,2,3,0,0,1,0,4,1,0,8,0,"si amigo, ser uno replica de el corbata del rey enrique v"
+433,0,Callaos los dos. ¿Por qué aviso a navegantes? Esto es un bebé,2,15,15,9,3,1,0,1,0,0,0,0,0,0,0,0,0,0,3,0,1,0,0,0,3,1,1,0,0,0,9,9,0,0,0,calir el tu el dos. ¿por que aviso a navegant? este ser uno bebe
+434,0,"Oh, sí, porque tengo mucho tiempo para eso, Sharon. De hecho por qué no preparas una cena de cuatro platos para todos, mejor una cena de siete platos.",0,34,25,15,2,1,4,0,0,0,0,0,0,0,0,0,0,0,6,1,3,2,0,1,3,1,2,0,2,0,36,4,0,30,0,"oh, si, porque tener mucho tiempo para ese, sharon. de hecho por que no preparar uno cena de cuatro plato para todo, mejor uno cena de siete plato."
+435,0,Eres un monstruo,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,ser uno monstruo
+436,0,"Es broma, son sus tres días libres anuales. Suelen ser dos, pero le he dejado recuperar uno del año pasado",0,23,22,11,2,0,2,0,0,0,0,0,0,0,0,0,0,0,3,3,2,3,1,0,1,0,2,0,0,0,9,4,0,0,3,"ser broma, ser su tres dia libre anual. soler ser dos, pero el haber dejar recuperar uno del año pasado"
+437,1,"Oh, sí, buena esa",0,6,5,3,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2,0,0,4,0,6,0,"oh, si, buen ese"
+438,0,"Bien, aquí vamos. Miren como van a patear. Las jugadas especiales son las más importantes",0,18,17,10,3,2,1,0,0,0,0,0,0,0,0,0,0,0,1,2,0,2,0,3,2,1,0,0,0,0,1,9,0,0,0,"bien, aqui ir. miren como ir a patear. el jugada especial ser el mas importante"
+439,0,¿No lo recuerdas? ¿Pero recuerdas el número de tu tarjeta de crédito?,2,16,12,11,2,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,1,2,1,1,2,0,0,0,0,0,9,4,0,0,3,¿no el recuerda? ¿pero recuerdas el numero de tu tarjeta de credito?
+440,0,Nueve dólares,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,nueve dolares
+441,0,"Entrenador, victoria de tres a cero sobre los Astillero, se debe sentir un ganador",1,16,15,8,1,1,2,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,0,0,2,2,1,0,0,0,9,1,0,0,0,"entrenador, victoria de tres a cero sobre el astillero, el deber sentir uno ganador"
+442,0,¿La ibas a convertir en un robot?,0,9,9,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,2,0,0,0,0,0,4,1,0,0,0,¿el ibas a convertir en uno robot?
+443,0,Vale te llamo cuando resuelven lo del topo para que lo lleves al nuevo piso franco,0,16,15,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,3,3,0,0,0,2,0,0,0,0,4,1,0,0,0,vale tu llamar cuando resolver el del topo para que el llevser al nuevo piso franco
+444,0,"Eh, salgan del campo, m'Kai",1,7,6,6,2,0,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,0,1,4,0,0,0,"eh, salgan del campo, m'kai"
+445,0,"¿Te puñalada por la espalda, no harás ninguna tontería en plan de venganza cuando abra la puerta?",1,20,19,12,1,0,1,1,0,0,0,0,0,0,0,0,0,0,5,1,1,2,0,1,3,0,0,0,0,0,25,1,0,0,0,"¿tu puñalar por el espalda, no haras ninguno tonteria en plan de venganza cuando abrir el puerta?"
+446,0,"No Eric, eres un jugador genial",0,7,7,5,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0,"no eric, ser uno jugador genial"
+447,0,"No soy abogada laboralista, pero",0,6,6,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,1,1,0,0,1,"no ser abogada laboralista, pero"
+448,0,¡Te voy a matar!,0,6,6,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,¡tu ir a matar!
+449,0,"Tiene razón, chicos, a partir de ahora eres el capitán Cutters. ¡Llévanos a la victoria!",1,20,18,12,2,2,2,0,1,0,0,0,0,0,0,0,0,0,6,0,0,1,0,1,2,1,0,0,0,1,36,4,6,0,0,"tener razon, chico, a partir de ahora ser el capitan cutters. ¡llevano a el victoria!"
+450,0,Uh,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,uh
+451,0,"Está claro que él cree tener un plan así que, pues, venga ¡qué hable!",0,18,16,9,1,0,2,0,1,0,0,0,0,0,0,0,0,0,1,1,2,4,0,1,1,0,0,0,0,1,1,1,1,0,0,"estar claro que el creer tener uno plan asi que, pues, venir ¡que hablar!"
+452,0,"Espera Vivian, te comunicamos con un representante y saludarás a él. Gracias por comprar con nosotros y felicitaciones por estos aretes fax de catorce quilates. A ese precio fue prácticamente un robo",2,35,30,19,3,3,1,0,0,0,0,0,0,0,0,0,0,0,7,1,3,3,2,1,4,1,1,0,1,0,49,9,0,19,14,"espera vivian, tu comunicar con uno representante y saludaras a el. gracias por comprar con yo y felicitacion por este aret fax de catorce quilate. a ese precio ser practicamente uno robo"
+453,0,"Coronel Cristiano, si no te importa",1,7,7,4,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,2,0,0,0,0,0,4,0,0,0,"coronel cristiano, si no tu importar"
+454,0,¿Perdón?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,3,0,¿perdon?
+455,0,"Mi cremosidad no sale todas las noches, pero va seguro de estar abastecido",0,14,14,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,1,1,3,0,0,0,0,0,4,1,0,0,2,"mi cremosidad no salir todo el noche, pero ir seguro de estar abastecido"
+456,0,"Entonces, fuimos a la India, que es hermosa, creo, nunca había ido. Y aprendimos que quien lo fundió, lo negó, lo rimó y de hecho lo proveyó",0,34,25,17,2,1,6,0,0,0,0,0,0,0,0,0,0,0,1,1,6,7,2,2,1,2,0,0,0,0,1,4,0,0,2,"entonces, ir a el india, que ser hermoso, creer, nunca haber ir. y aprender que quien el fundir, el negar, el rimar y de hecho el proveer"
+457,0,"Lo siento, señor Marso, pero parece que hay un daño permanente",1,13,12,8,1,1,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,0,1,1,0,0,0,0,4,1,0,0,2,"el sentir, señor marso, pero parecer que haber uno daño permanente"
+458,0,Nosotros ya no pateamos más,0,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,1,0,0,0,yo ya no patear mas
+459,0,"Bueno, no vamos a poner un par de novatos sin experiencia en la lineación inicial de la amenaza…",0,20,18,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,1,0,1,0,1,3,0,0,0,1,0,25,1,0,9,0,"bueno, no ir a poner uno par de novato sin experiencia en el lineacion inicial de el amenaza…"
+460,1,"Pero, oiga, ¿son necesarias las armas? Lo pregunto totalmente en serio",0,15,14,12,2,1,2,1,0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,1,1,0,0,0,0,0,4,4,0,0,2,"pero, oir, ¿ser necesario el arma? el preguntar totalmente en serio"
+461,0,"Sí, tengo literalmente miles de armas",1,7,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,0,1,0,1,1,0,5,0,"si, tener literalmente mil de arma"
+462,0,Y hablando de… cago la leche,0,7,7,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,1,0,1,0,0,0,0,0,1,1,0,0,1,y hablar de… cago el leche
+463,0,"Papá, no deberías gastar el dinero de tu jubilación en frivolidades. Deberías guardarlo para cuando te mueras y ese dinero es nuestro",0,24,23,12,2,2,1,0,0,0,0,0,0,0,0,0,0,0,4,0,1,3,1,1,4,1,0,0,0,0,16,4,0,0,4,"papa, no deberiar gastar el dinero de tu jubilacion en frivolidad. deberias guardar el para cuando tu mueras y ese dinero ser nuestro"
+464,1,Amo el sarcasmo bol. Es mucho mejor que el futbol. Me alegra que no haya violencia en los deportes. Y el sarcasmo bol es más divertido para ver,2,31,24,16,4,2,0,0,0,0,0,0,0,0,0,0,0,0,7,2,1,3,1,3,4,0,0,0,0,0,49,16,0,0,7,amar el sarcasmo bol. ser mucho mejor que el futbol. yo alegrar que no haber violencia en el deporte. y el sarcasmo bol ser mas divertido para ver
+465,0,¿De verdad?,1,4,4,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,¿de verdad?
+466,0,"No, no para nada",0,5,5,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"no, no para nada"
+467,1,"Mali tiene el globo. Está diciendo cosas muy lindas sobre el otro equipo. Balín se encuentra con G Woody. Le entrega el globo a Woody. El árbitro se acerca. El árbitro decide que es una notación. Espera, ahora se acerca otro árbitro y señala que es un punto en contra",4,57,39,33,7,7,1,0,0,0,0,0,0,0,0,0,0,0,8,1,4,9,1,2,9,7,0,0,0,0,64,49,0,0,8,"mali tener el globo. estar decir cosa mucho lindo sobre el otro equipo. balin el encontrar con g woody. el entregar el globo a woody. el arbitro el acercar. el arbitro decidir que ser uno notacion. espera, ahora el acercar otro arbitro y señalar que ser uno punto en contra"
+468,0,"¡Qué buen ojo! ¡Es muy listo! ¿Se aprovecha de mí, le gusta joder a mujeres asiáticas?",3,23,21,17,1,0,1,1,2,0,0,0,0,0,0,0,0,0,2,3,3,2,0,1,1,1,0,0,0,4,4,1,4,0,0,"¡que buen ojo! ¡ser mucho listo! ¿el aprovechar de yo, el gustar joder a mujer asiatico?"
+469,0,"Lo iba a hacer, pero mujer, no soy un monstruo. Has sido madre",0,16,15,9,2,0,2,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,1,1,1,0,0,0,0,0,16,4,0,0,4,"el ir a hacer, pero mujer, no ser uno monstruo. has ser madre"
+470,0,¡Cállate! Cuenta era un traidor. Iba a vender el disco a los rusos,1,16,15,10,2,2,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,3,0,0,0,1,1,9,4,3,10,0,¡callate! cuenta ser uno traidor. ir a vender el disco a el ruso
+471,0,Eh 37 15,0,3,3,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,1,0,0,0,eh 37 15
+472,0,"¡No me jodas, Civil!",2,7,7,6,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,"¡no yo jodir, civil!"
+473,0,"Sí es lo más lógico, claro, aunque seguro que son muy viejos",0,14,13,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,3,0,0,0,0,1,0,0,1,0,6,0,"si ser el mas logico, claro, aunque seguro que ser mucho viejo"
+474,0,"Así, básicamente lo más cañero",0,6,6,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,4,0,0,0,"asi, basicamente el mas cañero"
+475,0,"Oh, sí Archero, tengo una hermana",1,8,7,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,2,0,1,1,0,10,0,"oh, si archero, tener uno hermana"
+476,0,Ese niño nos quiere provocar. Dice cosas feas para que nos enojemos,0,13,12,8,2,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,2,4,0,0,1,0,0,0,0,0,4,4,0,0,0,ese niño yo querer provocar. decir cosa feo para que yo enojer
+477,1,¡Bien hecho!,0,4,4,3,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,¡bien hecho!
+478,0,Una importante misión para ISIS que podemos. Encestar de un chupe para hacer carambola,1,15,14,8,2,2,0,0,0,0,0,0,0,0,0,0,0,0,3,1,1,2,0,0,2,2,0,0,0,0,9,4,0,0,0,uno importante mision para isis que poder. encestar de uno chupe para hacer carambola
+479,0,"Pero, ¿qué te pasa?",1,7,7,5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,0,0,"pero, ¿que tu pasar?"
+480,0,¿Qué está haciendo?,1,5,5,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que estar hacer?
+481,0,"Ya, hola. ¿Un mexicano negro?",1,9,9,9,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0,0,0,0,1,4,0,0,0,"ya, hola. ¿uno mexicano negro?"
+482,0,"Rieger, los conductos de aire siguen con gas nervioso?",1,11,11,8,1,1,1,1,0,0,0,0,0,0,0,0,0,0,3,1,0,1,0,0,1,1,0,0,0,0,9,1,0,0,0,"rieger, el conducto de aire seguir con gas nervioso?"
+483,0,"¿Entonces, el plan de Cuenta no te parece innecesariamente complicado?",1,13,13,8,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,3,1,0,0,0,0,0,4,1,0,0,0,"¿entonces, el plan de cuenta no tu parecer innecesariamente complicado?"
+484,0,"Sí, no me gusta que se aprovechen de mí",0,10,10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,1,0,0,0,0,1,0,0,1,0,4,0,"si, no yo gustar que el aprovechar de yo"
+485,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+486,0,Sí lo soy,0,3,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1,0,si el ser
+487,1,¿Practicar un lunes luego de una victoria? ¡Genial!,0,12,12,8,2,1,0,1,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,0,0,0,1,1,4,4,2,8,0,¿practicar uno lunes luego de uno victoria? ¡genial!
+488,0,"Vamos a ver Barak, no sé lo que se cuenta por allí, pero las barbaridades que hayas oído que he hecho, realmente te falta el contexto, porque prácticamente en toda mi vida, prácticamente hasta ahora mismo he sido más bien un medio cañero. Pero eso era antes, antes de que tuviera una hija, una hija que has amenazado...",1,67,52,27,2,1,7,0,0,0,0,0,0,0,0,0,0,0,6,2,7,8,2,10,7,1,0,0,0,0,36,4,0,0,12,"ir a ver barak, no saber el que el contar por alli, pero el barbaridad que hayas oido que haber hacer, realmente tu faltar el contexto, porque practicamente en todo mi vida, practicamente hasta ahora mismo haber ser mas bien uno medio cañero. pero ese ser antes, antes de que tener uno hija, uno hija que haber amenazar..."
+489,0,¿Joder y qué hacemos?,1,6,6,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,¿joder y que hacer?
+490,0,"Amaba ese perro, me hizo muy feliz siempre. Cuando murió no quise ponerme demasiado triste, porque pensé que siempre me quedaría el recuerdo de su carita alegre. Yo no recuerdo cómo era su cara, Villi",3,40,32,22,4,1,3,0,0,0,0,0,0,0,0,0,0,0,4,3,4,8,0,6,4,1,0,0,0,0,16,16,0,0,0,"amar ese perro, yo hacer mucho feliz siempre. cuando morir no querer poner yo demasiado triste, porque pensar que siempre yo quedar el recuerdo de su carita alegre. yo no recordar como ser su cara, villi"
+491,0,Todo tiene su lógica,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,todo tener su logica
+492,0,Quiero saber cuánto ofrece por esta corbata de oro y diamantes,0,11,11,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,3,1,0,1,0,0,0,0,0,9,1,0,0,3,querer saber cuanto ofrecer por este corbata de oro y diamant
+493,0,"¡Sí, Sí, moho!",1,7,5,7,1,1,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,1,1,1,14,0,"¡si, si, moho!"
+494,0,Esperad. ¿No os ha parecido Archero un poco asustado?,2,12,12,8,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2,1,1,0,0,1,0,0,4,0,8,0,esperad. ¿no tu haber parecer archero uno poco asustado?
+495,0,"Bueno, de allí vamos, Cuenta, procura parecerse presidencia. Y Lana que parezcas eso, una señora, lo has bordado",2,24,20,17,2,1,5,0,0,0,0,0,0,0,0,0,0,0,2,1,2,5,1,1,1,1,0,0,1,0,4,4,0,17,2,"bueno, de alli ir, cuenta, procurar parecer el presidencia. y lan que parezca ese, uno señora, el haber bordar"
+496,0,"Tranquilo. No, joder, no tengo testamento",0,9,8,7,2,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,2,0,2,0,0,0,0,1,4,0,0,0,"tranquilo. no, joder, no tener testamento"
+497,0,"Me duelen los brazos... Levanta el puto cartel, esto es un negocio",1,14,14,9,2,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,1,0,0,3,1,0,0,0,0,9,4,0,0,0,"yo doler el brazo... levantar el puto cartel, este ser uno negocio"
+498,0,No podemos,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no poder
+499,0,Y ya que eres la única de aquí que odia a los niños,0,13,12,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,1,2,2,0,0,0,0,0,1,1,0,0,1,y ya que ser el unico de aqui que odiar a el niño
+500,0,¿Qué es sarcasmo y qué es esperma?,0,9,8,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,2,0,1,0,0,0,0,0,0,0,4,1,0,0,2,¿que ser sarcasmo y que ser esperma?
+501,0,Marchando una empanada familiar,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,marchar uno empanada familiar
+502,0,¿La cabeza de quién?,0,6,6,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,¿el cabeza de quien?
+503,0,"Lana, vete, AJ está en buenas manos. Sé lo que hago, he leído diez libros del club de las canguros",1,24,22,13,2,3,3,0,0,0,0,0,0,0,0,0,0,0,4,1,2,4,0,0,1,3,1,0,0,0,16,4,0,0,0,"lana, vete, aj estar en buena mano. saber el que hacer, haber leer diez libro del club de el canguro"
+504,0,Barak?,1,2,2,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,barak?
+505,0,¡Oblígame!,1,3,3,3,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,3,0,¡obligame!
+506,0,"Sterling, el señor",0,4,4,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,"sterling, el señor"
+507,0,Hay. ¿Lo ves?,1,6,6,6,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,haber. ¿el ver?
+508,0,Landó,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,lando
+509,0,"En fin, hasta que encuentren el topo y lo saquen, necesito que hagas canguro",0,16,14,9,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,4,1,0,1,0,0,0,0,0,4,1,0,0,2,"en fin, hasta que encontrar el topo y el saquir, necesitar que hagar canguro"
+510,0,"Seguro que sí, en algún momento, pero",0,9,8,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,1,0,1,1,0,4,1,"seguro que si, en alguno momento, pero"
+511,0,¿Qué coño pasa aquí?,1,6,6,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,0,5,0,¿que coño pasar aqui?
+512,0,"Vamos, dense palmadas en las espaldas",0,7,7,5,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,1,0,0,0,0,0,4,1,0,0,0,"vamos, dense palmada en el espalda"
+513,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+514,1,"Bienvenidos a Roma, donde hablamos de sarcasmo bol. No puedo esperar. No puedo esperar para hablar de sarcasmo bol porque es tan interesante. Me acompaña el entrenador de los Broncos de Denver e inventor de sarcasmo bol, Brandy Marso. Gracias por estar aquí Brandy, estoy feliz de que estés en el programa.",7,60,40,36,5,7,3,0,0,0,0,0,0,0,0,0,0,0,10,2,2,7,1,4,3,7,0,0,0,0,100,25,0,0,10,"bienvenido a roma, donde hablar de sarcasmo bol. no poder esperar. no poder esperar para hablar de sarcasmo bol porque ser tanto interesante. yo acompañar el entrenador de el broncos de denver e inventor de sarcasmo bol, brandy marso. gracias por estar aqui brandy, estar feliz de que estes en el programa."
+515,0,"Cómo, ¿dónde está?",1,6,6,4,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"como, ¿donde estar?"
+516,0,"Sí, pero dudo que",0,5,5,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0,"si, pero dudo que"
+517,0,No hasta que me tome este batido de mate y caña con una nube de tres en uno,0,18,17,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,1,1,1,2,0,1,0,0,0,16,1,0,0,4,no hasta que yo tomar este batido de mate y cañar con uno nube de tres en uno
+518,0,"Un momento, dame eso, a mi señal me pondré a tío. Vosotros idiotas salid corriendo y buscad a Paz y AJ y ponedlas a salvo antes de que lleguen más gilipollas",2,34,28,19,2,3,2,0,0,0,0,0,0,0,0,0,0,0,4,2,3,7,3,2,2,2,0,0,0,0,16,4,0,0,12,"uno momento, dame ese, a mi señal yo poner a tio. vosotros idiota salid correr y buscad a paz y aj y poned el a salvo antes de que llegar mas gilipolla"
+519,0,"Oye, no te preocupes por AJ, ¿vale?",0,11,10,8,1,1,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,0,0,0,0,0,1,0,0,0,"oir, no tu preocupar por aj, ¿valer?"
+520,0,"De mi primo, la que me diste no daba pego, y pensé que con una de verdad me metería más en el papel",0,25,22,10,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,4,5,1,2,3,0,0,0,0,0,9,1,0,0,3,"de mi primo, el que yo dar no dar pego, y pensar que con uno de verdad yo meter mas en el papel"
+521,0,"Para empezar, me ha disparado dos veces",0,8,8,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,1,0,0,0,1,1,0,0,0,"para empezar, yo haber disparar dos vez"
+522,0,Es un archivo informático con la identidad verdadera de todos los agentes de CIA que operan en el centro de Sudamérica. Argentina lo usa para presionar y amenazar a contárselo a los rusos,0,34,30,15,2,3,0,0,0,0,0,0,0,0,0,0,0,0,5,2,2,5,1,0,6,3,0,0,0,0,25,4,0,0,5,ser uno archivo informatico con el identidad verdadero de todo el agente de cia que operar en el centro de sudamerica. argentina el usar para presionar y amenazar a contarselo a el ruso
+523,0,¿Y vosotros estabais conchabados?,2,6,6,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,¿y vosotro estabai conchabado?
+524,0,¿No deberías qué?,1,5,5,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,¿no deberiar que?
+525,0,"Sí, decidíamos que sin las patadas por la preocupación creciente de las conmociones, m'Kai",1,16,14,9,1,0,2,0,0,1,0,0,0,0,0,0,0,0,3,2,0,1,0,0,3,0,0,0,1,0,9,1,0,9,0,"si, decidiar que sin el patada por el preocupacion creciente de el conmocion, m'kai"
+526,1,"Bien. Ciertamente, existen muchas estadísticas interesantes, Dan. Y estamos muy preocupados y esperando a ver si existe una relación directa entre fútbol y los traumas de cráneo",2,31,28,17,3,1,2,0,0,0,0,0,0,0,0,0,0,0,5,3,0,4,3,3,3,1,0,0,0,0,25,9,0,0,15,"bien. ciertamente, existir mucho estadistica interesante, dan. y estar mucho preocupado y esperar a ver si existir uno relacion directo entre futbol y el trauma de craneo"
+527,0,"Oh, por favor, sabemos que es Buenos Aires",0,10,9,6,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,0,0,1,0,1,1,0,6,0,"oh, por favor, saber que ser buenos aires"
+528,1,"No, en serio",0,4,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,"no, en serio"
+529,0,"Así mejor, que hay un bebé",0,7,7,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,0,0,1,1,0,0,0,"asi mejor, que haber uno bebe"
+530,0,"Está aquí, cabeza hueca",0,5,5,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,"estar aqui, cabeza hueco"
+531,0,Pero como puede salirse con la suya,0,7,7,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,1,0,0,0,pero como poder salir el con el suyo
+532,0,Todavía tengo pistola,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,todavia tener pistola
+533,0,"¿Por transferencia, algún problema?",1,7,7,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,"¿por transferencia, alguno problema?"
+534,0,"Vamos, básicamente si no os matáis unos a otros, es por falta de armas de fuego",0,18,16,8,1,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,0,2,0,0,0,0,0,0,9,1,0,0,0,"vamos, basicamente si no tu matais uno a otro, ser por falta de arma de fuego"
+535,0,"Eh, ¡qué va! ¡Solo esa frase!",2,11,9,8,1,0,1,0,2,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,1,0,0,0,4,1,1,2,0,0,"eh, ¡que ir! ¡solo ese frase!"
+536,0,¿Lo dices en serio?,0,6,6,5,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,¿el decir en serio?
+537,0,... Hay que fastidiarse,1,4,4,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,... haber que fastidiar el
+538,0,Yo he bordado,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,yo haber bordar
+539,0,"Ya os tendríais que haber ido, pero supongo que ya es tarde, así que...",0,17,14,7,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,1,4,0,0,0,0,0,0,0,1,0,0,0,"ya tu tendriais que haber ir, pero suponer que ya ser tarde, asi que..."
+540,0,"""Nosotros no somos los que negamos el verdadero valor de sus joyas, el refrán hindú en realidad dice""""más hay bachata hay""""""",6,26,21,14,1,0,1,0,0,6,0,0,0,0,0,0,0,0,5,2,2,1,0,2,4,0,0,0,0,0,25,1,0,0,0,"""yo no ser el que negar el verdadero valor de su joya, el refran hindu en realidad dice""""mas haber bachato haber"""""""
+541,0,"Bien, ocho dólares",0,4,4,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,"bien, ocho dolares"
+542,0,"No, no, me refiero a armas de fuego, por ejemplo. ¿Están bien guardadas?",1,19,17,13,2,0,3,1,0,0,0,0,0,0,0,0,0,0,3,1,1,1,0,3,0,0,0,0,0,0,9,4,0,0,0,"no, no, yo referir a arma de fuego, por ejemplo. ¿estar bien guardado?"
+543,0,Se me ocurren unas cuántas más,0,6,6,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,1,0,0,0,0,0,0,0,1,0,0,0,el yo ocurrir uno cuanta mas
+544,0,Me duelen los brazos,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,0,yo doler el brazo
+545,0,"Cielos, no sé, compañeros.",0,7,6,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,"cielos, no saber, compañero."
+546,0,Me encantan las noches de póquer,1,6,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,1,0,0,0,0,0,4,1,0,0,0,yo encantar el noche de poquer
+547,0,"Espera, ¿qué hago? La azotea es el primer sitio donde buscarán",1,14,14,8,2,1,1,1,0,0,0,0,0,0,0,0,0,0,2,1,2,3,0,0,2,0,0,0,0,0,4,4,0,0,0,"espera, ¿que hacer? el azotea ser el primero sitio donde buscar"
+548,0,"A tu ridículo, ¿qué es un tipi?",1,10,10,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,1,0,0,0,0,1,1,0,0,0,"a tu ridiculo, ¿que ser uno tipi?"
+549,0,Y literalmente,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,y literalmente
+550,0,"Venga, ¿no podemos tener una noche de póquer sin violencia?",2,13,13,7,1,0,1,1,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,1,1,0,0,0,0,0,16,1,0,0,0,"venga, ¿no poder tener uno noche de poquer sin violencia?"
+551,0,"Sí eso tiene mucho sentido, porque desde su promoción en el año 2006 ni siquiera tiene licencia para conducir",0,20,19,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,3,1,0,3,0,1,0,1,0,25,1,0,9,5,"si ese tener mucho sentido, porque desde su promocion en el año 2006 ni siquiera tener licencia para conducir"
+552,0,"Genial, no volveré a usarla",0,6,6,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,0,1,0,0,0,"genial, no volver a usar el"
+553,0,"Y dos de diez, porque eres un gilipollas de marca mayor",1,12,11,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,1,0,1,0,2,0,0,0,4,1,0,0,2,"y dos de diez, porque ser uno gilipolla de marca mayor"
+554,0,¿Qué?,0,3,3,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que?
+555,0,¿Y puedes prometer que aunque Cuenta?,1,8,8,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,¿y poder prometer que aunque contar?
+556,0,"Es cierto, Cutters",1,4,4,3,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"ser cierto, cutters"
+557,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+558,0,¿Qué información? Slate dijo que te sacará,1,9,9,6,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,1,0,0,0,0,1,4,0,0,0,¿que informacion? slate decir que tu sacar
+559,0,"Entonces, en la CIA, no hay ningún topo",0,10,9,5,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,2,1,0,0,0,0,1,1,0,0,0,"entonces, en el cia, no haber ninguno topo"
+560,1,"Lana, Lana, ¿es que tienes envidia de que soy un vergón?",0,15,12,9,1,2,2,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,1,2,0,0,0,0,4,1,0,0,0,"lana, lana, ¿ser que tener envidia de que ser uno vergon?"
+561,0,"Esas corbatas están de moda, tiene suerte de tenerla",0,10,9,6,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,1,0,0,0,0,0,9,1,0,0,0,"ese corbata estar de moda, tener suerte de tener el"
+562,0,Voy a darle yo violencia homófoba,0,6,6,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,ir a dar el yo violencia homofobo
+563,0,"Cutters, eres malo en todos los deportes",1,8,8,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,1,0,0,0,0,1,1,0,0,0,"cutters, eres malo en todo el deporte"
+564,0,¿Qué dijo?,1,4,4,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿que decir?
+565,0,"Oh, pues, no te habría visto copearte veinte copas y no haría falta para que te meneara",1,19,16,11,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,1,2,0,0,1,0,1,0,4,1,0,11,2,"oh, pues, no tu haber ver copearte veinte copa y no hacer falta para que tu menear"
+566,0,"Sí, idiota y también varias balas",0,7,7,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,0,0,0,1,0,1,1,0,4,1,"si, idiota y tambien varios bala"
+567,1,"Lo sabía, en el fondo de mi corazón, sabía que era de los buenos",0,16,13,7,2,0,2,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0,0,3,0,0,0,0,0,4,4,0,0,0,"el saber, en el fondo de mi corazon, saber que ser de el buen"
+568,0,Mexicano negro?,1,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,mexicano negro?
+569,0,"¿Quién eres? Eh espera, no recuerdo",0,9,9,7,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,0,0,0,0,4,0,0,0,"¿quien ser? eh espera, no recordar"
+570,0,Sí puede hacerle pruebas,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,1,1,0,3,0,si poder hacer el prueba
+571,0,"Archero, hablo en serio",1,5,5,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,0,0,"archero, hablar en serio"
+572,0,"Racista serás tú en todo caso si mexicano o negro te parecen insultos. De hecho, mi hija es multirracial",1,21,21,12,2,1,1,0,0,0,0,0,0,0,0,0,0,0,4,3,3,1,1,0,1,1,0,0,0,0,16,4,0,0,4,"racista seras tu en todo caso si mexicano o negro tu parecer insulto. de hecho, mi hija ser multirracial"
+573,1,"¡Moho! ¡Bien hecho, Ciclo! ¡Es bueno verte en televisión!",2,16,12,13,1,2,1,0,3,0,0,0,0,0,0,0,0,0,1,2,0,1,0,1,0,1,0,0,1,9,1,1,3,13,0,"¡moho! ¡bien hecho, ciclo! ¡ser bueno verte en television!"
+574,0,"Sí, me gustaría hablar sobre esta nueva regla que en el futbol prohíbe las patadas",1,16,16,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,3,1,1,3,0,0,3,0,0,0,1,0,9,1,0,8,0,"si, yo gustar hablar sobre este nuevo regla que en el futbol prohibir el patada"
+575,0,"Creo, lo averiguaremos el domingo",1,6,6,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,1,0,0,0,0,0,1,1,0,0,0,"creer, el averiguarer el domingo"
+576,0,Procuró que no haya sorpresas,1,5,5,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,procurar que no haber sorpresa
+577,0,Estoy cargando,0,2,2,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,estar cargar
+578,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+579,0,Porque te voy a molar los sesos en las escaleras de color,0,12,12,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,2,0,0,0,0,0,16,1,0,0,0,porque tu ir a molar el seso en el escalera de color
+580,0,Eso es muy cañero,0,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,ese ser mucho cañero
+581,0,¿La casa es segura para bebés?,1,8,8,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0,0,0,4,1,0,0,0,¿el casa ser seguro para bebe?
+582,0,"Sí, necesitamos más de tu jugo, Cutters",1,9,8,6,1,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,1,0,1,1,0,6,0,"si, necesitar mas de tu jugo , cutters"
+583,0,"""Así es, los sujetes con carteles""""compramos oro"""" compran sus joyas de porquería. Sumamos con las canales de ventas y los dividimos por los viejos de mente, tenemos oro""",1,35,25,21,2,0,2,0,0,6,0,0,0,0,0,0,0,0,9,1,1,4,1,2,4,0,0,0,0,0,81,4,0,0,9,"""asi es, el sujet con carteles""""compramo oro"""" comprar su joya de porqueria. sumar con el canal de venta y el dividir por el viejo de mente, tener oro"""
+584,0,Solo es una de las muchísimas otras cosas que podría estar haciendo,0,12,12,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,0,2,0,0,0,0,0,1,1,0,0,0,solo ser uno de el muchisimas otro cosa que poder estar hacer
+585,1,Sí o en un motel o en un váter por...,1,11,8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0,2,0,0,0,1,0,4,1,0,4,4,si o en uno motel o en uno vater por...
+586,0,Eso pensaba si se lo adereza a quienquiera que lo haya preguntado,1,12,11,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,3,0,0,0,0,0,0,0,0,1,1,0,0,0,ese pensar si el el aderezar a quienquiera que el haber preguntar
+587,1,"Sí claro, y más después de las alpinas.",1,10,10,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,2,1,0,0,0,1,0,1,1,0,4,1,"si claro, y mas despues de el alpina."
+588,0,"Ni tú. Me dé igual que seáis el presidente y la primera dama de Brasilia de visita en América de buena voluntad para la sede de los servicios de la inteligencia. El coronel Landó de las fuerzas especiales no trabaja para ti.  Aunque, la tapadera, la has clavado",5,54,41,29,4,4,2,0,0,0,0,0,0,0,0,0,0,0,10,4,4,3,2,1,8,3,0,0,0,0,100,16,0,0,20,"ni tu. yo dar igual que seais el presidente y el primero dama de brasilia de visita en america de buen voluntad para el sede de el servicio de el inteligencia. el coronel lando de el fuerza especial no trabajar para tu. aunque, el tapadera, el haber clavar"
+589,0,"Oh, Brandy, está ocurriendo",1,6,5,5,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,1,0,5,0,"oh, brandy, estar ocurrir"
+590,0,"Ya no es una beba, abuelo, tiene trece",0,10,9,6,1,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,2,1,0,1,0,0,0,4,1,0,0,0,"ya no ser uno beba, abuelo, tener trece"
+591,0,¿Es que quieres cabrearme?,1,6,6,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,¿ser que querer cabrear yo?
+592,0,"El servidor está en una cámara acorazada y reforzada con acceso mediante una tarjeta y escaneo de retina, en el último piso de la sede del servicio de inteligencia, que está fuertemente custodiada por todos sus puntos por fuerzas especiales con órdenes de disparar a matar a toda persona no autorizada.",2,54,43,26,1,0,2,0,0,0,0,0,0,0,0,0,0,0,14,6,1,3,2,2,8,0,0,0,0,0,196,1,0,0,28,"el servidor estar en uno camara acorazado y reforzado con acceso mediante uno tarjeta y escaneo de retina, en el ultimo piso de el sede del servicio de inteligencia, que estar fuertemente custodiado por todo su punto por fuerza especial con orden de disparar a matar a todo persona no autorizado."
+593,0,"Señor Marso, escuche, sé que se preocupa por su hijo, pero es un tremendo jugador. Hace buenas cosquillas, se ríe y tiene buen carácter",1,29,25,16,2,2,4,0,0,0,0,0,0,0,0,0,0,0,4,3,2,6,2,0,2,2,0,0,0,0,16,4,0,0,8,"señor marso, escuche, saber que el preocupar por su hijo, pero ser uno tremendo jugador. hacer buena cosquilla, el reir y tener buen caracter"
+594,0,"¿Han montado todo esto? ¿Que me dispararan, que le dispararan a Slate?",3,17,14,11,2,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,1,1,0,0,0,0,0,4,0,0,0,"¿haber montar todo este? ¿que yo dispararar, que el dispararar a slate?"
+595,0,Un aplauso para el pibe,0,5,5,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,4,1,0,0,0,uno aplauso para el pibe
+596,0,Es un bueno idea,1,4,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,ser uno bueno idea
+597,0,"Archero, no vayas como loco. ¿Qué coños estás haciendo?",1,13,13,10,2,2,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,1,1,0,0,0,0,1,4,0,0,0,"archero, no vaya como loco. ¿que coño estar hacer?"
+598,0,Antes de comenzar esta reunión de padres y maestros. ¿Alguien tiene un asunto pendiente?,1,17,16,11,2,1,0,1,0,0,0,0,0,0,0,0,0,0,4,1,1,2,1,1,2,0,0,0,0,0,16,4,0,0,4,antes de comenzar este reunion de padre y maestro. ¿alguien tener uno asunto pendiente?
+599,0,Acabo de hacer. A ver dónde está y cuál es la información,0,13,13,4,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,4,1,0,1,0,0,0,0,0,1,4,0,0,1,acabo de hacer. a ver donde estar y cual ser el informacion
+600,0,Esta es la vieja,0,4,4,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,4,0,0,0,este ser el viejo
+601,1,"Sí lo pienso realmente. Ayúdame, Sharon, ayúdame",0,10,9,9,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,1,0,1,0,0,1,0,0,4,0,9,0,"si el pensar realmente. ayudame, sharon, ayudame"
+602,0,"Y, pues existe un refrán hindú que dice, quien lo fundió, lo generó",1,16,13,8,1,0,3,0,0,0,0,0,0,0,0,0,0,0,1,1,4,4,1,0,1,0,0,0,0,0,1,1,0,0,1,"y, pues existir uno refran hindu que decir, quien el fundir, el generar"
+603,0,"No, es un regalo que me dio mi abuelo, pero es tan costoso que me siento mal aceptarlo. Prefiero efectivo",0,23,19,11,2,1,2,0,0,0,0,0,0,0,0,0,0,0,2,2,3,4,1,3,2,0,0,0,0,0,4,4,0,0,2,"no, ser uno regalo que yo dar mi abuelo, pero ser tanto costoso que yo sentir mal aceptar el. preferir efectivo"
+604,0,"M'que, ¿le gustaría ser el entrenador de sarcasmo bol de South Park?",2,15,14,10,1,2,1,1,0,1,0,0,0,0,0,0,0,0,3,0,1,1,0,0,1,3,0,0,0,0,9,1,0,0,0,"m'que, ¿el gustar ser el entrenador de sarcasmo bol de south park?"
+605,0,¿No estamos en el mismo bando?,1,8,8,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,2,0,0,0,0,0,1,1,0,0,0,¿no estar en el mismo bando?
+606,0,"Sí, no, no. Bien hecho por usted",0,10,8,5,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,3,0,0,0,0,1,0,0,4,0,5,0,"si, no, no. bien hecho por usted"
+607,0,¿Cómo dices?,1,4,4,4,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿como decir?
+608,0,"¿Es futbol seguro para sus hijos? Un padre preocupado, Brandy Marso, dice que no. Comenzó un movimiento para reformar el deporte y ya tiene cientos de seguidores.",2,33,30,21,3,3,2,1,0,0,0,0,0,0,0,0,0,0,6,2,0,4,1,2,4,2,1,0,0,0,36,9,0,0,6,"¿ser futbol seguro para su hijo? uno padre preocupado, brandy marso, decir que no. comenzar uno movimiento para reformar el deporte y ya tener ciento de seguidor."
+609,1,"Lo cierto es que el juego es muy emocionante. Y un juego emocionante que terminó en cero a cero es un juego que quiero ver dos veces. Es un juego que quiero ver cuatro veces. Oye esto, quiero ver este juego cinco veces. Buena suerte el domingo. Seguro que será otro juego que querré ver dos veces. Oye esto, trece veces",0,69,34,33,7,5,2,0,0,0,0,0,0,0,0,0,0,0,14,5,7,11,1,1,7,0,6,0,0,0,196,49,0,0,14,"el cierto ser que el juego ser mucho emocionante. y uno juego emocionante que terminar en cero a cero ser uno juego que querer ver dos vez. ser uno juego que querer ver cuatro vez. oye este, querer ver este juego cinco vez. buen suerte el domingo. seguro que ser otro juego que querrer ver dos vez. oye este, trece vez"
+610,0,Ya sabía que el pelo de ese le haría pasar por latino para colarnos dentro,0,15,15,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,4,0,2,1,0,0,0,0,0,4,1,0,0,0,ya saber que el pelo de ese el hacer pasar por latino para colar yo dentro
+611,0,Pero bueno,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,pero bueno
+612,0,¿Sostenes?,0,3,3,3,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,¿sostenes?
+613,0,"Rayos, esto es terrible",1,5,5,3,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,4,0,0,0,"rayos, este ser terrible"
+614,0,"En fin, lo llevaba un piso Franco de la CIA, pero nos estaba esperando varios de sus excompañeros y he tenido que salir a tiros",1,27,25,11,1,2,2,0,0,0,0,0,0,0,0,0,0,0,4,0,3,4,2,0,3,2,0,0,0,0,16,1,0,0,8,"en fin, el llevar uno piso franco de el cia, pero yo estar esperar varios de su excompañero y haber tener que salir a tiro"
+615,0,"Espera, ¿ya te sabía la clave?",0,9,9,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,1,1,0,0,0,0,0,1,1,0,0,0,"espera, ¿ya tu saber el clave?"
+616,0,"No sé, nunca me había puesto en pensarlo",0,9,9,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,0,0,0,1,0,0,0,"no saber, nunca yo haber poner en pensar el"
+617,0,"Sí, hombre, todos lo vemos venir. ¡Suéltalas!",1,12,11,10,2,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,2,2,0,0,0,1,0,0,1,1,1,4,1,10,0,"si, hombre, todo el ver venir. ¡sueltalas!"
+618,0,¿Se refiere a mí?,0,6,6,4,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,¿el referir a yo?
+619,0,"Cuando cerramos, aquel tipo",0,5,5,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,"cuando cerramos, aquel tipo"
+620,1,Desintoxicándose,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,desintoxicar el
+621,0,O si por nos lo vuelve a jugar,1,8,8,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,1,0,0,0,o si por yo el volver a jugar
+622,0,¿A quién iban a elegir si no?,0,9,9,5,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,¿a quien ir a elegir si no?
+623,0,Y yo voto por madre y Woodhouse,1,7,7,4,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,2,0,0,1,0,0,0,0,4,1,0,0,4,y yo votar por madre y woodhouse
+624,0,"Nuestra hija, Lana",0,4,4,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,"nuestro hija, lana"
+625,0,"¿Brandy, te lo piensas?",1,7,7,5,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"¿brandy, tu el pensar?"
+626,0,"Estoy en el negocio de reventa, pero no consigo suficientes joyas de la gente, así que quiero comprar las suyas",0,22,20,10,1,0,2,0,0,0,0,0,0,0,0,0,0,0,4,1,0,4,1,2,4,0,0,0,0,0,16,1,0,0,4,"estar en el negocio de reventa, pero no conseguir suficiente joya de el gente, asi que querer comprar el suyo"
+627,1,"Claro, él que fuma junto a la niña",0,9,9,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,1,0,0,0,0,0,1,1,0,0,0,"claro, el que fumar junto a el niña"
+628,0,"Y, es maravilloso, eso me pondría muy contento. ¿Quiénes están?",2,15,14,10,2,1,2,1,0,0,0,0,0,0,0,0,0,0,0,2,3,1,1,1,0,0,0,0,0,0,0,4,0,0,0,"y, ser maravilloso, ese yo poner mucho contento. ¿quien estar?"
+629,0,"No sé, creo que llevaría esa de allí",0,9,9,3,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,2,0,0,0,0,0,0,0,1,0,0,0,"no saber, creer que llevar ese de alli"
+630,0,"Es una hermosura, papá, gracias. Y, mañana les toman la foto escolares, también puede usarla",2,20,17,15,2,0,4,0,0,0,0,0,0,0,0,0,0,0,4,1,1,2,1,2,2,0,0,0,0,0,16,4,0,0,4,"ser uno hermosura, papa, gracias. y, mañana el tomar el foto escolar, tambien poder usar el"
+631,0,"¿Bienvenidos a Tac Bell, les gustan nuestros Doritos locos tacos?",2,13,13,10,1,2,1,1,0,0,0,0,0,0,0,0,0,0,2,1,1,2,0,0,1,2,0,0,0,0,4,1,0,0,0,"¿bienvenido a tac bell, el gustar nuestro dorito loco taco?"
+632,0,"Uno, eran botellitas y dos me refiero a AJ. ¿Quién la va a cuidar si nos pasa algo a los dos?",0,25,22,11,2,2,1,1,0,0,0,0,0,0,0,0,0,0,1,0,5,3,1,0,1,2,2,0,0,0,1,4,0,0,1,"uno, ser botellita y dos yo referir a aj. ¿quien el ir a cuidar si yo pasar algo a el dos?"
+633,0,"Te han puesto una mamada, ¿a qué sí? Y madre, Slate y CIA son idiotas por confiar en él. Pero me refería a volar en el mismo avión, Lana. Y si se llega a estrella",1,42,35,24,4,4,3,1,0,0,0,0,0,0,0,0,0,0,4,1,5,5,4,0,3,3,0,0,1,0,16,16,0,24,16,"tu haber poner uno mamada, ¿a que si? y madre, slate y cia ser idiota por confiar en el. pero yo refeer a volar en el mismo avion, lana. y si el llegar a estrella"
+634,0,"Quien lo negó, lo proveyó",0,6,5,4,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,4,0,0,0,"quien el negar, el proveer"
+635,0,Ah,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,ah
+636,0,"Y los demás, no veo la necesidad de contarle a Lana lo sucedido. ¿Entendido?",0,18,18,11,2,1,1,1,0,0,0,0,0,0,0,0,0,0,1,2,2,2,1,1,2,1,0,0,0,0,1,4,0,0,1,"y el dema, no ver el necesidad de contar el a lana el sucedido. ¿entendido?"
+637,0,Bienvenidos al juego inaugural la liga nacional de sarcasmo bol. Hoy tendremos el enfrentamiento entre los Broncos de Denver y los Riders de Falkland. ,3,26,22,16,2,4,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,2,1,1,4,5,0,0,0,0,16,4,0,0,4,bienvenido al juego inaugural el liga nacional de sarcasmo bol. hoy tener el enfrentamiento entre el broncos de denver y el riders de falkland.
+638,1,En el animal,1,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,en el animal
+639,0,Solo ese,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,solo ese
+640,1,Mi hijo está jugando a ese juego ahora. Me alegra el corazón ver como usted se preocupa por su seguridad,0,21,21,10,2,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,4,0,1,4,0,0,0,0,0,16,4,0,0,0,mi hijo estar jugar a ese juego ahora. yo alegrar el corazon ver como usted el preocupar por su seguridad
+641,0,Y haberle contado lo que estoy haciendo ha sido claramente para despistar. ¿Vale?,1,16,16,9,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,5,1,1,0,0,0,0,0,0,0,4,0,0,0,y haber el contado el que estar hacer haber ser claramente para despistar. ¿vale?
+642,0,Cuando nos pidió que viniéramos a rescatarte,1,7,7,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,1,0,0,0,cuando yo pedir que vinierar a rescatarte
+643,0,"Oh, bien. Está bien Cutters. Recuerda lo que hablamos. A veces nuestro relleno cremoso de felicidad crece de noche y se rebalsa",1,26,22,16,4,3,1,0,0,0,0,0,0,0,0,0,0,0,4,1,3,4,1,2,1,1,0,0,1,0,16,16,0,16,4,"oh, bien. estar bien cutters. recordar el que hablar. a veces nuestro relleno cremoso de felicidad crecer de noche y el rebalsar"
+644,0,"¿Brandy, no vas a acompañar tu familia en la cena?",1,13,13,8,1,1,1,1,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,2,1,0,0,0,0,4,1,0,0,0,"¿brandy, no ir a acompañar tu familia en el cena?"
+645,0,"¡A la mierda, creo que sí!",0,9,9,5,1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,1,5,0,"¡a el mierda, creer que si!"
+646,1,¿Lo dices porque tienes hambre?,0,7,7,6,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,1,1,0,0,0,¿el decir porque tener hambre?
+647,0,"¿Hola, Craig, cómo estás? Token apuesto que tu mamá tiene joyas que no le extrañará perder. Bebe, te ofrezco algo para tus diamantes falsos de tus aretes. Quizá pueda darte... Cutters, ¡qué carajos!",4,44,38,29,5,5,4,1,1,0,0,0,0,0,0,0,0,0,7,2,5,6,0,2,4,3,0,0,0,1,49,25,7,0,0,"¿hola, craig, como estar? token apuesto que tu mama tener joya que no el extrañar perder. bebe, tu ofrecer algo para tu diamante falso de tu aret. quiza poder dar tu... cutters, ¡que carajo!"
+648,0,"¿Entonces, está feliz por todos esos cambios?",1,10,10,6,1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,2,0,0,0,0,0,1,1,0,0,0,"¿entonces, estar feliz por todo ese cambio?"
+649,0,"Pero luego le bancasteis la mano, así que",1,9,9,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,2,1,0,0,0,0,0,1,1,0,0,1,"pero luego el bancasteis el mano, asi que"
+650,0,¿Quién lo necesita? Tenemos a Cutters,1,8,8,6,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,1,0,0,0,0,0,1,0,0,0,¿quien el necesitar? tener a cutters
+651,0,"Pagué miles, y usted me jode",0,7,7,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,0,1,0,0,0,1,1,0,0,1,"pagar mil, y usted yo jodar"
+652,0,Archero,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,archero
+653,0,La virgen. ¿No descansará hasta que estemos todos esclavizados por Skynet?,2,14,14,10,2,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,2,0,0,0,0,0,4,0,0,0,el virgen. ¿no descansar hasta que estar todo esclavizar por skynet?
+654,0,Lana,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,lana
+655,0,"Demostrando lo que un padre preocupado puede lograr, Marso terminó hablando frente de los líderes de Washington",1,18,17,11,1,2,1,0,0,0,0,0,0,0,0,0,0,0,3,1,2,4,0,0,2,2,0,0,0,0,9,1,0,0,0,"demostrar el que uno padre preocupado poder lograr, marso terminar hablar frente de el lider de washington"
+656,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
+657,0,"Pues, yo, como es lógico",0,7,6,4,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"pues, yo, como ser logico"
+658,0,Mm… Voy a decir: '¡No!' ¡Venganza!,1,14,11,12,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,2,4,0,1,0,24,0,mm… ir a decir: '¡no!' ¡venganza!
+659,0,En Canadá no funciona nada,1,5,5,3,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,1,0,0,0,en canada no funcionar nada
+660,0,"No tenemos entrenador, Kilo",1,5,5,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,0,"no tener entrenador , kilo"
+661,0,"Sí, no estoy seguro de que sea un pastel o quizá un pan. Pero definitivamente cree que está horneando algo",0,22,20,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,2,1,1,2,2,3,2,0,0,0,1,0,4,4,0,10,4,"si, no estar seguro de que ser uno pastel o quiza uno pan. pero definitivamente creer que estar hornear algo"
+662,0,No te queda azúcar,0,4,4,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,no tu quedar azucar
+663,0,"Ya que estás aquí, ¿por qué no nos cuentas cuál es la misión?",0,16,16,7,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,0,3,1,0,3,1,0,0,0,0,0,4,1,0,0,0,"ya que estar aqui, ¿por que no yo contar cual ser el mision?"
+664,0,Y eso es algo muy sagrado para nosotras así que ¿le ayudaremos a buscar a la pequeña J? En unos sin… quince o cuarenta minutos,2,28,27,13,2,1,0,1,0,0,0,0,0,0,0,0,0,0,1,2,5,2,2,2,1,1,2,0,0,0,1,4,0,0,2,y ese ser algo mucho sagrado para nosotra asi que ¿el ayudar a buscar a el pequeño j? en uno sin … quince o cuarenta minuto
+665,0,No eran sólidas,0,3,3,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,no ser solida
+666,0,"Sí, pero los diamantes no me sirven para nada. Tendría que enviarlo a un fundidor que se ocupe de fundir el oro y quizás yo gane unos diez dólares",0,31,30,13,2,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,6,6,2,3,3,0,1,0,0,0,16,4,0,0,8,"si, pero el diamante no yo servir para nada. tener que enviar el a uno fundidor que el ocupar de fundir el oro y quizas yo ganar uno diez dolares"
+667,0,Esto tendrá que resolverlo el grupo fuera del campo,1,9,9,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,0,1,1,0,0,0,0,0,4,1,0,0,0,este tener que resolver el el grupo fuera del campo
+668,0,"¿Porque menudo imbécil, verdad?",1,7,7,5,1,0,1,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,"¿porque menudo imbecil, verdad?"
+669,0,Como yo,0,2,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,como yo
+670,0,Sí,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,si
