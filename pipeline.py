@@ -185,6 +185,7 @@ def final():
     mejor_modelo = metricas["MODELO"][np.argmax(metricas["ROC"])]
     mejor_acc = metricas["ACCURACY"][np.argmax(metricas["ROC"])]
     mejor_acc_train = metricas["ACC_TRAIN"][np.argmax(metricas["ROC"])]
+    mejor_roc =  metricas["ROC"][np.argmax(metricas["ROC"])]
 
     embedding_bert = bert(test)
     embedding_fast = fast(test)
@@ -204,4 +205,4 @@ def final():
                                "ROC":[roct_bs,roct_bc,roct_fs,roct_fc], 
                                "ACCURACY":[acct_bs,acct_bc,acct_fs,acct_fc]})
     
-    return mejor_modelo, mejor_acc_train, mejor_acc, resultados
+    return mejor_modelo, mejor_acc_train, mejor_acc, mejor_roc, resultados
